@@ -1,0 +1,4458 @@
+,abbreviation,meaning
+0,#,fracture
+1,A&E,accident and emergency
+2,a.c.,before meals
+3,a.m.,morning
+4,am,morning
+5,AM,morning
+6,AF,atrial fibrillation
+7,AMHP,approved mental health professional
+8,APTT,activated partial thromboplastin time
+9,ASQ,ages and stages questionnaire
+10,b.d.s,2 times a day
+11,bds,2 times a day
+12,BDS,2 times a day
+13,b.i.d.,twice a day / twice daily / 2 times daily
+14,bid,twice a day / twice daily / 2 times daily
+15,bd,twice a day / twice daily / 2 times daily
+16,BMI,body mass index
+17,BNO,bowels not open
+18,BO,bowels open
+19,BP,blood pressure
+20,c/c,chief complaint
+21,CMHN,community mental health nurse
+22,CPN,community psychiatric nurse
+23,CSF,cerebrospinal fluid
+24,CSU,catheter stream urine sample
+25,CT scan,computerised tomography
+26,CVP,central venous pressure
+27,CXR,chest X-ray
+28,DNACPR,do not attempt cardiopulmonary resuscitation
+29,DNAR,do not attempt resuscitation
+30,DNR,do not resuscitate
+31,Dr,doctor
+32,DVT,deep vein thrombosis
+33,Dx,diagnosis
+34,ECG,electrocardiogram
+35,ED,emergency department
+36,EEG,electroencephalogram
+37,EMU,early morning urine sample
+38,ESR,erythrocyte sedimentation rate
+39,EUA,examination under anaesthetic
+40,FBC,full blood count
+41,FY1 FY2,foundation doctor
+42,GA,general anaesthetic
+43,gtt.,drop(s)
+44,gtt,drop(s)
+45,h.,hour
+46,h,hour
+47,h/o,history of
+48,Hb,haemoglobin
+49,HCA,healthcare assistant
+50,HCSW,healthcare support worker
+51,HDL,high-density lipoprotein
+52,HRT,hormone replacement therapy
+53,Ht,height
+54,Hx,history
+55,i,1 tablet
+56,ii,2 tablets
+57,iii,3 tablets
+58,i.m.,injection into a muscle
+59,IM,injection into a muscle
+60,i.v.,injection directly to a vein
+61,IV,injection directly to a vein
+62,INR,international normalised ratio
+63,IVI,intravenous infusion
+64,IVP,intravenous pyelogram
+65,Ix,investigations
+66,LA,local anaesthetic
+67,LDL,low-density lipoprotein
+68,LFT,liver function test
+69,LMP,last menstrual period
+70,M/R,modified release
+71,MRI,magnetic resonance imaging
+72,MRSA,methicillin resistant staphylococcus aureus
+73,MSU,mid-stream urine sample
+74,n.p.o.,nothing by mouth / not by oral administration
+75,npo,nothing by mouth / not by oral administration
+76,NPO,nothing by mouth / not by oral administration
+77,NAD,nothing abnormal discovered
+78,NAI,non-accidental injury
+79,NBM,nil by mouth
+80,NG,nasogastric
+81,nocte,every night
+82,NoF,neck of femur
+83,NSAID,non-steroidal anti-inflammatory drug
+84,o.d.,once a day
+85,od,once a day
+86,OD,once a day
+87,o/e,on examination
+88,OT,occupational therapist
+89,p.c.,after food
+90,p.m.,afternoon or evening
+91,pm,afternoon or evening
+92,PM,afternoon or evening
+93,p.o.,orally / by mouth / oral administration
+94,po,orally / by mouth / oral administration
+95,PO,orally / by mouth / oral administration
+96,p.r.,rectally
+97,pr,rectally
+98,PR,rectally
+99,p.r.n.,"as needed (also pertactin, a key antigen of ac. pertussis vaccine)"
+100,prn,"as needed (also pertactin, a key antigen of ac. pertussis vaccine)"
+101,PRN,"as needed (also pertactin, a key antigen of ac. pertussis vaccine)"
+102,p/c,presenting complaint
+103,physio,physiotherapist
+104,POP,plaster of paris
+105,PTT,partial thromboplastin time
+106,PU,passed urine
+107,q.,every
+108,q.1.d.,every day
+109,q1d,every day
+110,q.1.h.,every hour
+111,q1h,every hour
+112,q.2.h.,every 2 hours
+113,q2h,every 2 hours
+114,q.4.h.,every 4 hours
+115,q4h,every 4 hours
+116,q.6.h.,every 6 hours
+117,q6h,every 6 hours
+118,q.8.h.,every 8 hours
+119,q8h,every 8 hours
+120,q.d.,every day / daily
+121,qd,every day / daily
+122,q.d.s,4 times a day
+123,qds,4 times a day
+124,QDS,4 times a day
+125,q.h.,"every hour, hourly"
+126,qh,"every hour, hourly"
+127,q.i.d,4 times a day
+128,qid,4 times a day
+129,q.o.d.,every other day / alternate days
+130,qod,every other day / alternate days
+131,q.s.,a sufficient quantity (enough)
+132,qs,a sufficient quantity (enough)
+133,RN,registered nurse
+134,RNLD,learning disability nurse
+135,ROSC,return of spontaneous circulation
+136,RTA,road traffic accident
+137,Rx,treatment
+138,s.c.,injection under the skin
+139,SC,injection under the skin
+140,S/R,sustained release
+141,SLT,speech and language therapist
+142,SpR,specialist registrar
+143,stat.,"immediately, with no delay, now"
+144,STEMI,ST-elevation myocardial infarction
+145,t.d.s,3 times a day
+146,tds,3 times a day
+147,TDS,3 times a day
+148,t.i.d.,3 times a day
+149,tid,3 times a day
+150,TCI,to come in
+151,TFT,thyroid function test
+152,TPN,total parenteral nutrition
+153,TPR,"temperature, pulse and respiration"
+154,TTA,to take away
+155,TTO,to take out
+156,U&E,urea and electrolytes
+157,u.d.,as directed
+158,ud,as directed
+159,UCC,urgent care centre
+160,UTI,urinary tract infection
+161,VLDL,very-low density lipoprotein
+162,VTE,venous thromboembolism
+163,Wt,weight
+164,ABG,Arterial blood gases
+165,ACE,Angiotensin converting enzyme
+166,ACL,Anterior cruciate ligament
+167,ADHD,Attention deficit hyperactivity disorder
+168,AFIB,Atrial fibrillation
+169,AIDS,Acquired immunodeficiency syndrome
+170,ALP,Alkaline phosphatase
+171,ALS,Amyotrophic lateral sclerosis.
+172,ALT,Alanine aminotransferase
+173,AMD,Age-related macular degeneration
+174,AMI,Acute myocardial infarction
+175,AODM,Adult onset diabetes mellitus
+176,AST,Aspartate aminotransferase
+177,AVM,Arteriovenous malformation
+178,BID,Twice a day
+179,BMI,Body mass index
+180,BP,Blood pressure
+181,BPH,Benign prostatic hypertrophy
+182,BRCA,Breast Cancer Gene
+183,BUN,Blood urea nitrogen
+184,CA,Cancer OR Calcium
+185,CA-125,Cancer antigen 125
+186,CABG,Coronary artery bypass graft
+187,CAD,Coronary artery disease
+188,CAT,Computerized axial tomography
+189,CBC,Complete blood count
+190,CHD,Congenital heart disease
+191,CHF,Congestive heart failure
+192,CMV,Cytomegalovirus
+193,CNS,Central nervous system
+194,COPD,Chronic obstructive pulmonary disease
+195,CPK,Creatine phosphokinase
+196,CPR,Cardiopulmonary resuscitation
+197,CRF,Chronic renal failure
+198,CRP,C-reactive protein
+199,CSF,Cerebrospinal fluid
+200,CVA,Cerebrovascular accident
+201,CXR,Chest x-ray
+202,D&C,Dilatation and curettage
+203,DJD,Degenerative joint disease
+204,DM,Diabetes mellitus
+205,DTP,"Diphtheria, tetanus, pertussis"
+206,DVT,Deep-vein thrombosis
+207,DX,Diagnosis
+208,ECG,Electrocardiogram
+209,EKG,Electrocardiogram
+210,ECHO,Echocardiogram
+211,EEG,Electroencephalogram
+212,EMG,Electromyography
+213,ENT,"Ear, nose and throat"
+214,ERCP,Endoscopic retrograde cholangiopancreatography
+215,ESR,Erythrocyte sedimentation rate
+216,ESRD,End-stage renal (kidney) disease
+217,FSH,Follicle stimulating hormone
+218,GERD,Gastroesophageal reflux disease
+219,GI,Gastrointestinal
+220,GFR,Glomerular filtration rate
+221,GU,Genitourinary
+222,HAV,Hepatitis A virus
+223,HBV,Hepatitis B virus
+224,HCT,Hematocrit
+225,HCV,Hepatitis C virus
+226,HDL,High density lipoprotein
+227,HGB,Hemoglobin
+228,HIV,Human immunodeficiency virus
+229,HPV,Human papilloma virus
+230,HRT,Hormone replacement therapy
+231,HTN,Hypertension
+232,IBD,Inflammatory bowel disease
+233,IBS,Irritable bowel syndrome
+234,ICD,Implantable cardioverter defibrillator
+235,ICU,Intensive care unit
+236,IDDM,Insulin-dependent diabetes mellitus
+237,IM,Intramuscular
+238,IUD,Intrauterine device
+239,IV,Intravenous
+240,IVP,Intravenous pyelogram
+241,LDL,Low density lipoprotein
+242,LFT,Liver function tests
+243,MI,Myocardial infarction
+244,MMR,"Measles, mumps, and rubella"
+245,MRI,Magnetic resonance imaging
+246,MRSA,Methicillin-resistant Staphylococcus aureus
+247,MS,Multiple sclerosis
+248,NG,Nasogastric
+249,NIDDM,Non-insulin dependent diabetes mellitus
+250,NKDA,No known drug allergies
+251,NSAID,Non-steroidal anti-inflammatory drug
+252,OCD,Obsessive-compulsive disorder
+253,PAD,Peripheral arterial disease
+254,PAP,Papanicolau
+255,PAT,Paroxysmal atrial tachycardia
+256,PET,Positron emission tomography
+257,PFT,Pulmonary function test
+258,PID,Pelvic inflammatory disease
+259,PMS,Premenstrual syndrome
+260,PPD,Purified protein derivative
+261,PRN,As needed
+262,PSA,Prostate specific antigen
+263,PT,Prothrombin time
+264,PTH,Parathyroid hormone
+265,PTSD,Post-traumatic stress syndrome
+266,PTT,Partial thromboplastin time
+267,PUD,Peptic ulcer disease
+268,PVC,Premature ventricular contraction
+269,QID,Four times a day
+270,RA,Rheumatoid arthritis
+271,RBC,Red blood cell
+272,RSV,Respiratory syncytial virus
+273,Rx,Prescription
+274,SAD,Seasonal affective disorder
+275,SIDS,Sudden infant death syndrome
+276,SLE,Systemic lupus erythematosus
+277,SOB,Shortness of Breath
+278,STD,Sexually transmitted disease
+279,T3,Triiodothyronine
+280,T4,Thyroxine
+281,TB,Tuberculosis
+282,TAH,Total abdominal hysterectomy
+283,TIA,Transient ischemic attack
+284,TIBC,Total iron binding capacity
+285,TID,Three times a day
+286,TMJ,Temporomandibular joint
+287,TORCH,Stands for a group of infections that may cause birth defects
+288,TSH,Thyroid stimulating hormone
+289,TURP,Transurethral resection of prostate gland
+290,URI,Upper respiratory infection
+291,UTI,Urinary tract infection
+292,XRT,Radiotherapy
+293,WBC,White blood cell
+294,a,before (L. ante)
+295,A,ampere
+296,A&D,ascending and descending
+297,A&O,alert and oriented
+298,A&Ox3,"awake and oriented to person, place, and time"
+299,A&Ox4,"awake and oriented to person, place, time, and situation"
+300,A&P,anatomy and physiology
+301,A&W,alive and well
+302,A-A,atlanto-axial joint
+303,A-a,alveolar-arterial
+304,A-G ratio,albumin/globulin ratio
+305,A-R,apical radial (pulse)
+306,A-T,baby teeth
+307,A-VO2,arteriovenous oxygen
+308,a.c.,before meal (ante cibum)
+309,a.p.,anterior-posterior
+310,A/C,assist/control
+311,A/G,albumin/globulin ratio
+312,A/O,alert and oriented
+313,A/V,aortic valve
+314,A1c,glycosylated hemoglobin
+315,A2,aortic second sound
+316,aa,of each (ana ana)
+317,AA,aortic aneurism
+318,AA&O,"awake, alert and oriented"
+319,AAA,abdominal aortic aneurysm
+320,AAFP,American Academy of Family Physicians
+321,AAL,anterior axillary line
+322,AAMC,Association of American Medical Colleges
+323,AAMI,age-associated memory impairment
+324,AAO,"awake, alert, and oriented"
+325,AAOS,American Academy of Orthopedic Surgeons
+326,AAR,after action review/report
+327,AAT,alpha-1-antitrypsin
+328,AAU,acute anterior uveitis
+329,Ab,abdominal
+330,AB,active bilaterally
+331,ABA,applied behavior analysis
+332,Abb,abbreviated
+333,ABC,advanced breast cancer
+334,ABCD2,"age, blood pressure, clinical findings, duration of symptoms, diabetes mellitus (stroke risk score)"
+335,ABCDE,"airway, breathing, circulation, disability, expose, and examine"
+336,abd,abdomen
+337,abdom,abdomen
+338,ABFP,American Board of Family Practice
+339,ABG,arterial blood gas
+340,ABI,acquired brain injury
+341,ABLA,acute blood loss anemia
+342,ABLS,advanced burn life support
+343,abn,abnormal(ity)
+344,ABN,Advance Beneficiary Notice (Medicare)
+345,ABO,"blood groups (A, B, AB, O)"
+346,ABP,arterial blood pressure
+347,ABPM,ambulatory blood pressure monitoring
+348,ABPP,American Board of Professional Psychology
+349,ABR,auditory brain response
+350,Abs,antibodies
+351,abs,"absent, absence"
+352,ABW,actual body weight
+353,abx,antibiotics
+354,AC,adrenal cortex
+355,ac,acute
+356,ac phos,acid phosphatase
+357,ACA,Affordable Care Act
+358,ACC,adenoid cystic carcinoma
+359,acc,according
+360,acc.,accommodation
+361,ACD,anticonvulsant drug
+362,ACDA,adult children of alcoholics
+363,ACE,angiotensin-converting enzyme
+364,ACEI,angiotensin-converting enzyme inhibitor
+365,ACEP,American College of Emergency Physicians
+366,ACG,angiocardiography
+367,ACh,acetylcholine
+368,AChE,acetylcholinesterase
+369,ACHES,"abdominal pain, chest pain, headache, eye problems, and severe leg pains"
+370,AChR,acetylcholine receptor
+371,ACJ,acromioclavicular joint
+372,aCL,anticardiolipin antibodies
+373,ACL,anterior cruciate ligament
+374,ACLS,advanced cardiac life support
+375,ACO,accountable care organization
+376,ACOG,American College of Obstetricians and Gynecologists
+377,ACP,advanced care plan
+378,ACS,accountable care systems
+379,ACSW,Academy of Certified Social Workers
+380,ACT,assertive community treatment
+381,act.,activity
+382,ACTH,adrenocorticotropic hormone
+383,ACU,ambulatory care unit
+384,ACV,assist control ventilation
+385,ACVD,acute cardiovascular disease
+386,ad,up to
+387,AD,autosomal dominant
+388,ad lib.,"freely, as desired, at liberty (L. ad libitum)"
+389,ad sat.,to saturation
+390,ADA,Americans with Disabilities Act
+391,ADC,AIDS dementia complex
+392,ADD,attention deficit disorder
+393,Add,adduction
+394,ADDH,attention-deficit disorder with hyperactivity
+395,addl,additional
+396,ADE,antibody-dependent enhancement
+397,ADEM,acute disseminated encephalomyelitis
+398,adeq,adequate
+399,ADH,alcohol dehydrogenase
+400,ADHD,attention deficit hyperactivity disorder
+401,ADHF,acute decompensated heart failure
+402,ADI,acceptable daily intake
+403,ADL,activities of daily living
+404,adm,admission
+405,ADME,"absorption, distribution, metabolism, and excretion"
+406,admin,"administration, administer"
+407,admov,let it be applied (admoveatur)
+408,ADP,adenosine diphosphate
+409,ADPKD,autosomal dominant polycystic kidney disease
+410,ADR,adverse drug reaction
+411,ADT,anticipated discharge tomorrow
+412,adv,advise(d)
+413,AE,above elbow
+414,AEA,above elbow amputation
+415,AEB,as evidenced by
+416,AEC,ambulatory emergency care
+417,AED,antiepileptic drug
+418,AER,adverse event report
+419,AF,atrial fibrillation
+420,AFB,acid fast bacilli
+421,Afeb,afebrile
+422,Afib,atrial fibrillation
+423,AFO,ankle foot orthosis
+424,AFP,alpha-fetoprotein
+425,AFV,amniotic fluid volume
+426,AFX,atypical fibroxanthoma
+427,Ag,antigen
+428,AGA,appropriate/average for gestational age
+429,AGC,atypical glandular cells
+430,AGE,acute gastroenteritis
+431,AGEP,acute generalized exanthematous pustulosis
+432,aggl,agglutination
+433,AGN,acute glomerulonephritis
+434,AgNO3,silver nitrate
+435,ags,antigens
+436,AH,auditory hallucination
+437,AHA,autoimmune hemolytic anemia
+438,AHC,acute hemorrhagic cystitis
+439,AHF,antihemophilic factor
+440,AHG,aggregated human IgG
+441,AI,aortic insufficiency/incompetence
+442,AICD,automatic implantable cardiac defibrillator
+443,AID,artificial insemination by donor
+444,AIDS,acquired immunodeficiency syndrome
+445,AIH,artificial insemination homologous
+446,AIHA,autoimmune hemolytic anemia
+447,AIMS,arthritis impact measurement scales
+448,AIVR,accelerated idioventricular rhythm
+449,AK,above the knee
+450,aka,also known as (alias)
+451,AKA,above the knee amputation
+452,AKI,acute kidney injury
+453,AKN,acne keloidalis nuchae
+454,Al,Aluminum (element)
+455,ALA,aminolevulinic acid
+456,Alb,albumin
+457,ALC,acute lethal catatonia
+458,alc,alcohol
+459,ALD,adrenoleukodystrophy
+460,ALF,Assisted Living Facility
+461,ALFT,abnormal liver function test
+462,ALG,antilymphocyte globulin
+463,ALL,acute lymphocytic/lymphoblastic leukemia
+464,ALP,alkaline phosphatase
+465,ALS,amyotrophic lateral sclerosis
+466,alt,alternate
+467,ALT,alanine transaminase
+468,alt. dieb.,every other day (alternis diebus)
+469,alt. hor.,alternate hours (alternis horis)
+470,alt. noct.,alternate nights (alternis noctes)
+471,am,"morning, before noon (ante meridiem)"
+472,AMA,against medical advice
+473,amb,ambulance
+474,AMD,age-related macular degeneration
+475,AME,"absorption, metabolism, excretion"
+476,AMH,anti-Mullerian hormone
+477,AMI,acute myocardial infarction
+478,AML,acute myeloid leukemia
+479,AMLS,advanced medical life support
+480,AMML,acute myelomonocytic leukemia
+481,amnio,amniocentesis
+482,AMP,adenosine monophosphate
+483,amp,ampule
+484,AMPLE,"allergies, medications, past medical history, last meal, events preceding"
+485,AMR,antimicrobial resistance
+486,AMS,aseptic meningitis syndrome
+487,AMSIT,"appearance, mood, sensorium, intelligence, thought process"
+488,amt,amount
+489,AMU,acute medical unit
+490,AN,acanthosis nigricans
+491,ANA,antinuclear antibody
+492,anast.,anastomosis
+493,anat,anatomy or anatomic
+494,ANC,absolute neutrophil count
+495,ANCA,anti-neutrophilic cytoplasmic antibody
+496,ANCOVA,analysis of covariance
+497,AND,allow natural death
+498,anes,anesthesia
+499,anesth,anesthesia
+500,ANF,atrial natriuretic factor
+501,ang,angiogram
+502,ANLL,acute nonlymphocytic leukemia
+503,ANP,advanced nurse practitioner
+504,ANS,autonomic nervous system
+505,ant.,anterior
+506,anti-CCP,anticyclic citrullinated peptide
+507,anti-GBM,anti-glomerular basement membrane
+508,Anti-HAV,Hepatitis A antibody
+509,Anti-HBc,Hepatitis B antibodies to the core antigen
+510,Anti-HBe,Hepatitis B antibody (antibody to HBeAg)
+511,Anti-HBs,Hepatitis B antibodies to the surface antigen
+512,Anti-HCV,Hepatitis C Virus Antibodies
+513,AO,acridine orange
+514,Ao.,aorta
+515,AOB,alcohol on breath
+516,AODM,adult onset diabetes mellitus
+517,AOM,acute otitis media
+518,AOP,acknowledgment of paternity
+519,AOTA,American Occupational Therapy Association
+520,AP,apical pulse
+521,Ap,apex/apical
+522,ap,before meal (ante prandium)
+523,AP D,anteroposterior diameter
+524,APA,antipernicious anemia (factor)
+525,APACHE,Acute Physiology and Chronic Health Evaluation
+526,APAP,"N-acetyl-para-aminophenol (paracetamol, acetaminophen)"
+527,APC,atrial premature contraction
+528,APD,automated peritoneal dialysis
+529,APE,acute pulmonary edema
+530,APGAR,"appearance, pulse, grimace, activity, respiration"
+531,API,active pharmaceutical ingredient
+532,APL,abductor pollicis longus
+533,aPL,antiphospholipid antibodies
+534,APLS,antiphospholipid syndrome
+535,APMS,alternative provider medical services
+536,APN,Advanced Practice Nurse
+537,APORF,acute postoperative renal failure
+538,appar,apparent
+539,APPG,aqueous procaine penicillin-g
+540,approx,approximately
+541,aPPT,activated partial thromboplastin time
+542,appt,appointment
+543,APRN,Advanced Practice Registered Nurse
+544,APRV,airway pressure release ventilation
+545,APS,antiphospholipid syndrome
+546,APSGN,acute poststreptococcal glomerulonephritis
+547,APT,anatomical pathology technologist
+548,aPTT,activated partial thromboplastin time
+549,aq,water (aqua)
+550,AR,artificial respiration
+551,Ar,Argon (element)
+552,ARB,angiotensin-ii receptor blocker
+553,ARBD,alcohol-related birth defects
+554,ARC,American Red Cross
+555,ARD,acute respiratory distress
+556,ARDD,alcohol-related developmental disability
+557,ARDS,acute respiratory distress syndrome
+558,ARF,acute renal failure
+559,ARG,argininemia
+560,ARMD,age-related macular degeneration
+561,ARND,alcohol-related neurodevelopmental disorder
+562,ARNP,Advanced Registered Nurse Practitioner
+563,AROM,active range of motion
+564,ARRP,anatomic retropubic radical prostatectomy
+565,ARRT,American Registry of Radiologic Technologists
+566,ARS,acute radiation syndrome
+567,ART,assisted reproductive technology/therapy
+568,art,arterial
+569,ARV,antiretroviral
+570,AS,ankylosing spondylitis
+571,As,Arsenic (element)
+572,as tol,as tolerated
+573,As.,astigmatism
+574,ASA,acetylsalicylic acid (aspirin)
+575,aSAH,aneurysmal subarachnoid hemorrhage
+576,ASAP,as soon as possible
+577,ASC,atypical squamous cells
+578,ASC-US,atypical squamous cells of undetermined significance
+579,asc.,ascending
+580,ASCA,anti-saccharomyces cerevisiae antibody
+581,ASCP,American Society of Clinical Pathologists
+582,ASCT,allogenic stem cell transplant
+583,ASCVD,atherosclerotic cardiovascular disease
+584,ASD,autism spectrum disorders
+585,ASF,anterior spinal fusion
+586,ASH,asymmetrical septal hypertrophy
+587,AsH,hypermetropic astigmatism
+588,ASHD,arteriosclerotic heart disease
+589,ASHF,acute systolic heart failure
+590,ASIS,anterior superior iliac spine
+591,AsM,myopic astigmatism
+592,ASO,administrative services only
+593,ASPD,advanced sleep phase disorder
+594,AST,aspartate aminotransferase (formerly SGOT)
+595,Ast,astigmatism
+596,ASU,ambulatory surgery unit
+597,Asx,asymptomatic
+598,AT,anterior tibial
+599,at. wt.,atomic weight
+600,ATF,"alcohol, tobacco, and firearms"
+601,ATG,antithymocyte globulin
+602,ATL,adult T-cell leukemia
+603,ATLS,advanced trauma life support
+604,ATN,acute tubular necrosis
+605,ATOD,"alcohol, tobacco, and other drugs"
+606,ATP,adenosine triphosphate
+607,atr,atrophy
+608,AU,"each ear (auris uterque), both ears"
+609,Au,Gold (element)
+610,AUC,area under the curve
+611,aud,auditory
+612,AUG,oxytocin challenge test
+613,AUL,acute undifferentiated leukemia
+614,ausc,auscultation
+615,aux,auxiliary
+616,AV,aortic value
+617,AV block,atrioventricular block
+618,AV valves,atrioventricular valves
+619,av.,avoirdupois
+620,AVB,atrioventricular block
+621,AVD,atrioventricular dissociation
+622,AVI,automatic volume infusion pump
+623,AVM,arteriovenous malformation
+624,AVN,avascular necrosis
+625,AVP,arginine vasopressin
+626,AVPU,"alert, verbal, pain response, unresponsive"
+627,AVR,aortic valve repair
+628,AVS,arteriovenous shunt
+629,AVSS,"afebrile, vital signs stable"
+630,AWC,adequate and well-controlled
+631,AWMI,anterior wall myocardial infarction
+632,AWOL,absent without (official) leave
+633,ax,axillary
+634,AXR,abdominal x-ray
+635,AXT,alternating exotropia
+636,AZA,azathioprine
+637,b,both
+638,B,black
+639,B&C,board and care (home)
+640,B-Med,behavioral medicine
+641,b.i.d.,twice a day
+642,b.i.n.,twice a night (bis in noctis)
+643,B/O,because of
+644,B0,riboflavin
+645,B1,Thiamin
+646,B4,Pyridoxine
+647,B7,folic acid
+648,Ba,Barium (element)
+649,BAC,blood alcohol concentration
+650,bact,bacterial
+651,BAEP,brainstem auditory evoked potentials
+652,BAER,brainstem auditory evoked response
+653,BAHA,bone anchored hearing aid
+654,bal,balance
+655,BAL,bronchoalveolar lavage
+656,Band,banded neutrophil
+657,barbs,barbiturates
+658,Baso,basophil
+659,BB,breakthrough bleeding
+660,BBB,bundle branch block
+661,BBP,blood-borne pathogens
+662,BBS,bilateral breath sounds
+663,BBT,basal body temperature
+664,BBW,black box warning
+665,BC,breast cancer
+666,BCA,bichloroacetic acid
+667,BCC,basal cell carcinoma
+668,BCCP,breast and cervical cancer (treatment) program
+669,BCCTP,breast and cervical cancer (treatment) program
+670,BCE,basal cell epithelioma
+671,BCG,Bacille Calmette-Guerin (vaccine)
+672,BCLS,basic cardiac life support
+673,BCM,body cell mass
+674,BCNSP,Board Certified Nutrition Support Pharmacist
+675,BCOP,Board Certified Oncology Pharmacist
+676,BCP,birth control pill(s)
+677,BCPP,Board Certified Psychiatric Pharmacist
+678,BCPS,Board Certified Pharmacotherapy Specialist
+679,BD,Buerger disease
+680,BDD,body dysmorphic disorder
+681,BDI,beck depression inventory
+682,BDNF,brain-derived neurotrophic factor
+683,Be,Beryllium (element)
+684,BE,Barium enema
+685,BEA,below-the-elbow amputation
+686,BEAM,brain electrical activity mapping
+687,BED,binge eating disorder
+688,BEE,basal energy expenditure
+689,beg,"begin, began, beginning"
+690,BEq,bioequivalence
+691,bet,between
+692,BF,breast feed(ing)
+693,BFP,biological false-positive
+694,BFR,blood flow rate
+695,BG,blood glucose
+696,bGH,bovine growth hormone
+697,BGM,blood glucose monitoring
+698,BH,behavioral health
+699,BHA,beta hydroxy acid
+700,BHS,behavioral health services
+701,BHU,behavioral health unit
+702,Bi,Bismuth (element)
+703,BI,brain injury
+704,BIB,brought in by
+705,bib.,drink
+706,BIBA,brought in by ambulance
+707,bicarb,(Sodium) bicarbonate
+708,bid,twice a day (bis in die)
+709,BIDS,bedtime insulin and daytime sulfonylureas
+710,BIH,bilateral inguinal herniorrhaphy
+711,bil,bilateral
+712,bilat,bilateral
+713,bili,bilirubin
+714,bin,twice a night (bis in noctis)
+715,biol,biologic
+716,BIOT,biotinidase deficiency
+717,BiPAP,bilevel positive airway pressure
+718,bisp.,bispinous diameter (interspinous diameter)
+719,BK,below the knee
+720,BKA,below knee amputation
+721,BL,bilateral
+722,Bl,blood
+723,bl,bleeding
+724,bl.,blood
+725,bld,blood
+726,BLE,bilateral lower extremities
+727,BLL,blood lead level
+728,BLS,basic life support
+729,BM,body mechanics
+730,BMA,British Medical Association
+731,BMC,bone mineral content
+732,BMD,bone mineral density
+733,BME,biomedical engineering
+734,BMK,birthmark
+735,BMP,basic metabolic panel
+736,BMPs,bone morphogenetic proteins
+737,BMR,basal metabolic rate
+738,BMS,burning mouth syndrome
+739,BMT,bone marrow transplantation
+740,BNF,British National Formulary
+741,BNP,brain natriuretic peptide
+742,BO,bowel obstruction
+743,BOA,born out of asepsis
+744,BOH,board of health
+745,bol.,pill (bolus)
+746,BOM,bilateral otitis media
+747,BOS,bacterial overgrowth syndrome
+748,bot,bottle
+749,BOT,base of tongue
+750,BP,base pair
+751,BPA,bisphenol A
+752,BPAD,bipolar affective disorder
+753,BPD,borderline personality disorder
+754,BPd,"blood pressure, diastolic"
+755,BPH,benign prostatic hypertrophy
+756,BPharm,Bachelor of Pharmacy
+757,bpm,beats per minute
+758,BPP,biophysical profile
+759,BPPV,benign paroxysmal positional vertigo
+760,BPRS,brief psychiatric rating scale
+761,BPS,bilateral partial salpingectomy
+762,BPs,"blood pressure, systolic"
+763,BPV,benign positional vertigo
+764,Br,Bromine (element)
+765,BR,bed rest
+766,brady,bradycardia
+767,BRAIDED,"benefits, risks, alternatives, inquiries, decision, explanation, documentation"
+768,BRAT,"bananas, rice, applesauce, toast (diet)"
+769,BRB,bright red blood
+770,BRBPR,bright red blood per rectum
+771,BRC,biomedical research center
+772,BRM,biological response modifier
+773,BROW,"barley, rye, oats, and wheat"
+774,BRP,bathroom privileges
+775,BRU,biomedical research unit
+776,BS,bowel sounds
+777,BS&O,bilateral salpingectomy and oophorectomy
+778,BSA,body surface area
+779,BSB,breath sounds bilateral
+780,BSC,biological safety cabinet
+781,BSc,Bachelor of Science
+782,BSE,bovine spongiform encephalopathy
+783,BSF,basal skull fracture
+784,BSI,blood stream infection
+785,BSL,blood sugar level
+786,BSLE,bullous systemic lupus erythematosus
+787,BSN,Bachelor of Science in Nursing
+788,BSO,bilateral salpingo-oophorectomy
+789,BSOM,bilateral serous otitis media
+790,BSS,balanced salt solution
+791,BST,breast stimulation test
+792,BSU,base service unit
+793,Bt,Bacillus thuringiensis
+794,BT,bioterrorism
+795,BTB,breakthrough bleeding
+796,BTBV,beat to beat variability
+797,BTE,behind the ear (heading aids)
+798,BTFS,breast tumor frozen section
+799,BTL,bilateral tubal ligation
+800,BTLS,basic trauma life support
+801,BTP,bladder training program
+802,BTW,by the way
+803,btw.,between
+804,BU,Bethesda unit
+805,BUdR,bromodeoxyuridine
+806,BUE,both upper extremities
+807,BUM,back-up method
+808,BUN,blood urea nitrogen
+809,BUS,"Bartholin's, Urethral, and Skene's glands"
+810,BV,bacterial vaginosis
+811,BVT,bilateral ventilation tube(s)
+812,BW,birth weight
+813,BWS,battered woman syndrome
+814,Bx,biopsy
+815,C,Celsius (centigrade)
+816,c,calorie (small calorie)
+817,C&A,conscious and alert
+818,C&C,confirmed and compatible
+819,C&DB,cough and deep breath
+820,C&P,crowning and pushing
+821,C&S,culture and sensitivity
+822,C-B,chest-back
+823,C-collar,cervical collar
+824,C-spine,cervical spine
+825,c.m.s.,to be taken tomorrow morning (cras mane sumendus)
+826,c.n.,tomorrow night (cras nocte)
+827,c.n.s.,to be taken tomorrow night (cras nocte sumendus)
+828,c/o,complains of
+829,C/S,consult
+830,C/TG,cholesterol/triglyceride ratio
+831,C/w,consistent with
+832,C1,first cervical vertebra
+833,C2,second cervical vertebra
+834,CA,"cancer, carcinoma"
+835,Ca,Calcium (element)
+836,ca.,about
+837,CAB,compressions-airway-breathing
+838,CABG,coronary artery bypass graft
+839,CAC,Certified Addictions Counselor
+840,CaCO3,calcium carbonate
+841,CACT,carnitine acylcarnitine translocase (deficiency)
+842,CAD,computer-aided detection
+843,CAE,complement activity enzyme
+844,CAF,"cytoxan, adriamycin, fluorouracil"
+845,CAGE,"controlling, anger/annoyance, guilt, eye opener (questions)"
+846,CAH,chronic active hepatitis
+847,CAI,computer assisted instruction
+848,Cal,Calorie (kilocalorie)
+849,cal,calorie
+850,CAM,complementary and alternative medicine
+851,cAMP,cyclic adenosine monophosphate
+852,CAO,"conscious, alert, and oriented"
+853,CAOX3,"conscious, alert, oriented to person, place, time"
+854,cap,capillary
+855,CAP,community acquired pneumonia
+856,CAPD,continuous ambulatory peritoneal dialysis
+857,caps,capsules
+858,CARP,confluent and reticulated papillomatosis
+859,CAST,cardiac arrhythmia suppression trial
+860,CAT,computerized axial tomography
+861,cath,cathartic
+862,CAU,child and adolescent unit
+863,cauc,Caucasian
+864,CAUTI,catheter-associated urinary tract infection
+865,cav,cavity
+866,CAVP,continuous arterial venous pressure
+867,CB,carotid bruit
+868,CBC,complete blood count
+869,CBD,common bile duct
+870,CBE,clinical breast exam
+871,CBF,cerebral blood flow
+872,CBG,capillary blood gas
+873,CBI,continuous bladder irrigation
+874,CBLL,capillary blood lead level
+875,CBO,community based organization
+876,CBP,chronic bacterial prostatitis
+877,CBRNE,"chemical, biological, radiological, nuclear, and explosive agents"
+878,CBS,casual blood sugar
+879,CBSC,cord blood stem cells
+880,CBT,computer-based training
+881,CBW,chemical and biological warfare
+882,cc,cubic centimeter
+883,CC,current complaint
+884,CCA,calcium channel antagonist
+885,CCB,calcium channel blocker
+886,CCC,chronic care clinic
+887,CCCA,central centrifugal cicatricial alopecia
+888,CCE,"clubbing, cyanosis edema"
+889,CCF,congestive cardiac failure
+890,CCH,care closer to home
+891,CCK,cholecystokinin
+892,CCMS,clean catch midstream (specimen)
+893,CCNU,lomustine
+894,CCP,clinical care pathway
+895,CCPD,continuous cycling peritoneal dialysis
+896,CCRA,cardiac cath recovery area
+897,CCT,certificate of completion of training
+898,CCU,critical care unit
+899,CCW,counterclockwise
+900,CD,chemical dependency
+901,Cd,Cadmium (element)
+902,CD-ROM,compact disc read-only memory
+903,CD4,helper T lymphocytes
+904,CD8,cytotoxic T lymphocytes
+905,CDA,Certified Dental Assistant
+906,CDAD,Clostridium difficile-associated diarrhea
+907,CDC,Centers for Disease Control and Prevention
+908,CDH,congenital dislocation hip
+909,CDHF,chronic diastolic heart failure
+910,CDMI,Clinical Digital Maturity Index
+911,cDNA,complementary DNA
+912,CDT,Clostridium difficile toxin
+913,CDU,chemical dependency unit
+914,Ce,Cerium (element)
+915,CE,continuing education
+916,CEA,carcinoembryonic antigen
+917,CEH,continuing education hour
+918,CEN,Certified Emergency Nurse
+919,cert,"certified, certificate"
+920,cerv,cervix/cervical
+921,CETR,"care, education and treatment review"
+922,CEU,continuing education unit
+923,CF,cystic fibrosis
+924,CFC,chlorofluorocarbon
+925,CFR,Certified First Responder
+926,CFS,chronic fatigue syndrome
+927,CFTR,cystic fibrosis transmembrane regulator
+928,CFU,colony forming unit
+929,cg,centigram (one hundredth of a gram)
+930,CG,chorionic gonadotropin
+931,CGA,contact guard assist
+932,Cgm,centigram (one hundredth of a gram)
+933,cGMP,cyclic guanine monophosphate
+934,CGN,chronic glomerulonephritis
+935,cGy,centigray
+936,ch,chest
+937,CH,congenital hypothyroidism
+938,ch px,chicken pox
+939,CHADS,"congestive heart failure, hypertension, age, diabetes mellitus, prior stroke or TIA"
+940,CHB,complete heart block
+941,CHC,community health center
+942,CHD,congenital heart disease
+943,ChE,cholinesterase
+944,chem,"chemical, chemistry"
+945,chemo,chemotherapy
+946,CHF,congestive heart failure
+947,CHHA,certified home health aide/agency
+948,CHI,closed head injury
+949,CHL,conductive hearing loss
+950,CHO,carbohydrate
+951,chol,cholesterol
+952,Chr,chronic
+953,CHT,closed head trauma
+954,CI,cardiac index
+955,Ci,curie
+956,CIA,collagen-induced arthritis
+957,CIBH,change in bowel habits
+958,CIC,circulating immune complex
+959,CICU,coronary intensive care unit
+960,cig,cigarette
+961,CIN,cervical intraepithelial neoplasia
+962,CIP,clean in place
+963,circ,circulate
+964,CIS,carcinoma in situ
+965,CISM,critical incident stress management
+966,CJD,creutzfeldt-jakob disease
+967,CK,creatine kinase
+968,CK-MB,"serum creatine kinase, myocardial-bound"
+969,CKC,cold knife conization
+970,CKD,chronic kidney disease
+971,Cl,Chlorine (element)
+972,cl,centiliter
+973,Cl-,Chloride
+974,CLA,certified laboratory assistant
+975,CLcr,creatinine clearance
+976,CLD,chronic liver disease
+977,CLI,critical limb ischemia
+978,CLIA,clinical laboratory improvement amendments
+979,clin,clinic
+980,CLL,chronic lymphocytic leukemia
+981,CLN,clinical lead/liaison nurse
+982,CLOD,clinical lead for organ donation
+983,CLR,clear
+984,CLTC,citizens for long-term care
+985,CM,cervical mucus
+986,cm,centimeter
+987,cm2,square centimeter
+988,CMA,Certified Medical Assistant
+989,CMC,carpo metacarpal
+990,CME,continuing medical education
+991,CMF,"cyclophosphamide, methotrexate, and fluorouracil"
+992,CMG,cystometrogram
+993,CMHC,community mental health center
+994,CML,chronic myeloid leukemia
+995,CMO,care management organization
+996,cmp,cardiomyopathy
+997,CMP,comprehensive metabolic panel
+998,CMS,Centers for Medicare and Medicaid
+999,CMT,cervical motion tenderness
+1000,CMTC,cutis marmorata telangiectatica congenita
+1001,CMV,controlled mechanical ventilator
+1002,CN,cognitively normal
+1003,CNA,Certified Nurse Aide
+1004,CNE,chronic nervous exhaustion
+1005,CNH,chondrodermatitis nodularis helices
+1006,CNM,Certified Nurse Midwife
+1007,CNO,Chief Nursing Officer
+1008,CNR,closed nasal reduction
+1009,CNS,Clinical Nurse Specialist
+1010,CNSC,certified nutrition support clinician
+1011,CO,Certified Orthotist
+1012,Co,Cobalt (element)
+1013,CO2,carbon dioxide
+1014,COA,coarctation of the aorta
+1015,CoA,Coenzyme A
+1016,COAD,chronic obstructive airways disease
+1017,coag,coagulation
+1018,COB,coordination of benefits
+1019,COC,cauterization of the cervix
+1020,COCs,combined oral contraceptives (estrogen and progestin)
+1021,COG,center of gravity
+1022,COH,carbohydrate
+1023,COLD,chronic obstructive lung disease
+1024,COM,chronic otitis media
+1025,COMP,cartilage oligomeric matrix protein
+1026,comp.,compound
+1027,COMT,catechol-o-methyltransferase
+1028,conc,concentrated
+1029,cond,condition
+1030,cong,congenital
+1031,const,constant
+1032,cont,continue(d)
+1033,contras,contraindications
+1034,contrx,contractions
+1035,COO,chief operating officer
+1036,COP,conditions of participation (Medicare)
+1037,COPD,chronic obstructive pulmonary disease
+1038,COPE,chronic obstructive pulmonary emphysema
+1039,CORE,coordinated outbreak response and evaluation
+1040,corr,"correct, correction"
+1041,COT,Nicotine/Cotinine (COT test)
+1042,COTA,certified occupational therapy assistant
+1043,CoV,coronavirus
+1044,COWS,clinical opiate withdrawal scale
+1045,COX,cyclooxygenase
+1046,COX-2,cyclooxygenase 2 (inhibitors)
+1047,cP,centipoise unit
+1048,CP,cleft palate
+1049,CPA,cerebellopontine angle
+1050,CPAP,continuous positive airway pressure
+1051,CPB,competitive protein binding
+1052,CPC,clinicopathologic conference
+1053,CPD,congenital polycystic disease
+1054,CPE,chronic pulmonary emphysema
+1055,CPHSS,Cincinnati Prehospital Stroke Scale
+1056,CPhT,Certified Pharmacy Technician
+1057,CPK,creatinine phosphokinase
+1058,CPM,counts per minute
+1059,CPMI,chronic and persistent mental illness
+1060,CPP,cerebral perfusion pressure
+1061,CPPV,continuous positive pressure ventilation
+1062,CPR,cardiopulmonary resuscitation
+1063,CPS,Child Protective Services
+1064,CPT,chest physiotherapy
+1065,CQI,continuous quality improvement
+1066,CR,conditioned reflex
+1067,Cr,Chromium (element)
+1068,CRA,clinical research associate
+1069,CRB,clinical reference board
+1070,CRC,Certified Rehabilitation Counselor
+1071,CrCl,creatinine clearance
+1072,CRD,chronic respiratory disease
+1073,crea,creatinine
+1074,creat,creatinine
+1075,CREST,"calcinosis, Raynaud's phenomenon, esophageal dysmotility, sclerodactyly, telangiectasias"
+1076,CRF,chronic renal failure
+1077,CRH,corticotropin-releasing hormone
+1078,CRI,constant rate infusion
+1079,CRIF,closed reduction-internal fixation
+1080,crit,Hematocrit
+1081,CRNA,certified registered nurse anesthetist
+1082,cRNA,chromosomal RNA
+1083,CRNH,certified registered nurse hospice
+1084,CRNP,Certified Registered Nurse Practitioner
+1085,CRO,clinical research organization
+1086,CRPS,complex regional pain syndrome
+1087,CRR,consult review request
+1088,CRRT,continuous renal replacement therapy
+1089,CRS,congenital rubella syndrome
+1090,CRS-R,Conners Rating Scales-Revised
+1091,CRT,Certified Respiratory Therapist
+1092,Crt,creatinine
+1093,CRTT,Certified Respiratory Therapy Technician
+1094,CRU,coronary rehabilitation unit
+1095,cryo,cryosurgery
+1096,CS,culture and sensitivity
+1097,cs,conditioned stimulus
+1098,Cs,Cesium (element)
+1099,CSA,cyclosporin A
+1100,CSF,colony-stimulating factor
+1101,CSH,combat support hospital
+1102,CSHF,chronic systolic heart failure
+1103,CSIC,cervical spine immobilization collar
+1104,CSII,continuous subcutaneous insulin infusion
+1105,CSM,cervical spondylotic myelopathy
+1106,CSO,chief scientific officer
+1107,CSP,carotid sinus pressure
+1108,CSR,central supply room
+1109,CSS,central service supply
+1110,CST,contraction stress test
+1111,CSU,catheter specimen of urine
+1112,CT,chest tube
+1113,CT scan,computed tomography scan
+1114,CT/GC,Chlamydia Trachomatis/Neisseria Gonorrhea
+1115,CTA,computerized tomography angiography
+1116,CTAB,clear to auscultation bilaterally
+1117,CTB,cease to breathe
+1118,CTC,computed tomographic colonography
+1119,CTCL,Cutaneous T-cell lymphoma
+1120,CTD,connective tissue disease
+1121,CTE,chronic traumatic encephalopathy
+1122,CTG,cathepsin G
+1123,CTLSO,cervical thoracic lumbar sacral orthosis
+1124,cTnI,cardiac troponin I
+1125,cTnT,cardiac troponin T
+1126,CTO,clinical trial outline
+1127,CTP,"color, temperature, pulse"
+1128,CTPA,computed tomography pulmonary angiogram
+1129,ctr,control
+1130,CTR,carpal tunnel release
+1131,CTS,carpal tunnel syndrome
+1132,ctx,contraction
+1133,CTZ,chemoreceptor trigger zone
+1134,Cu,Copper (element)
+1135,CU,case unknown
+1136,CUC,chronic ulcerative colitis
+1137,CUD,carnitine uptake defect
+1138,CUm,cubic micron
+1139,cur,current
+1140,CV,cardiovascular
+1141,CVA,cerebrovascular accident
+1142,CVAT,costovertebral angle tenderness
+1143,CVB,coxsackievirus B
+1144,CVC,central venous catheter
+1145,CVD,cardiovascular disease
+1146,CVI,chronic venous insufficiency
+1147,CVL,central venous line
+1148,CVOU,cardiovascular outpatient unit
+1149,CVRB,critical value read back
+1150,CvS,cardiovascular system
+1151,CVS,chorionic villus sampling
+1152,CVX,cervix
+1153,CWD,canal wall down
+1154,CWR,canal wall reconstruction
+1155,CWU,canal wall up
+1156,Cx,cancel
+1157,CX,circumflex
+1158,Cx Bx,cervical biopsy
+1159,CXR,chest x-ray
+1160,CY,calendar year
+1161,Cy,cyanosis
+1162,CYS,children and youth services
+1163,cysto,cystoscopy
+1164,cytol,cytology
+1165,d,date
+1166,D,diopter
+1167,D Bili,direct bilirubin
+1168,D&A,drug and alcohol
+1169,D&C,dilation and curettage
+1170,D&D,dehydration and diarrhea
+1171,D&E,dilation and evacuation
+1172,D&O,diagnostic and observation
+1173,D&V,diarrhea and vomiting
+1174,D-Bili,direct bilirubin
+1175,D-Pen,d-penicillamine
+1176,D/A,date of admission
+1177,D/B,date of birth
+1178,D/C,discontinue
+1179,D/NS,dextrose in normal saline
+1180,d/t,due/to
+1181,d/w,discussed with
+1182,d4t,stavudine
+1183,D5NS,5% dextrose in normal saline
+1184,D5W,5% dextrose in water
+1185,DA,developmental age
+1186,DAH,disordered action of the heart
+1187,DAI,diffuse axonal injury
+1188,DAPE,"data, assessment, plan, evaluation"
+1189,DARE,Drug & Alcohol Resistance Education
+1190,DASE,Denver Articulation Screening Examination
+1191,DASH,dietary approaches to stop hypertension (meal plan)
+1192,DAT,diet as tolerated
+1193,dau,daughter
+1194,DAW,dispense as written
+1195,DB,double-blind
+1196,dB,decibel (measurement of sound volume)
+1197,DB&C,deep breathing and coughing
+1198,dBP,diastolic blood pressure
+1199,DBS,deep brain stimulation
+1200,DBT,dialectal behavioral therapy
+1201,DC,discontinue
+1202,DCAP-BTLS,"deformity, contusions, abrasions, punctures/penetrations, burns, tenderness, lacerations, swelling"
+1203,DCC,direct current cardioversion
+1204,DCIS,ductal carcinoma in situ
+1205,dcSSc,diffuse cutaneous systemic sclerosis
+1206,DCT,distal convoluted tubule
+1207,DD,dry dressing
+1208,DDAVP,desmopressin acetate
+1209,ddC,zalcitabine
+1210,DDH,developmental dysplasia of the hip
+1211,ddI,didanosine
+1212,dDNA,denatured DNA
+1213,DDS,Doctor of Dental Surgery
+1214,DDST,Denver Developmental Screening Test
+1215,DDx,differential diagnosis
+1216,DEA,Drug Enforcement Administration
+1217,dec,deceased
+1218,dec'd,deceased
+1219,DECA,Devereux Early Childhood Assessment
+1220,decr,decrease(d)
+1221,decub,decubitus (lying down)
+1222,def,deficiency
+1223,defib,defibrillation
+1224,deg,degree
+1225,del,"delivery, delivered"
+1226,dep,dependent
+1227,dept,department
+1228,deriv,"derive, derivative"
+1229,Derm,dermatology
+1230,DES,diethylstilbestrol
+1231,desc,"descent, descending"
+1232,det.,let it be given (detur)
+1233,dev,develop(ment)
+1234,DEXA,dual-energy x-ray absorptiometry
+1235,DF,dorsiflexion
+1236,DFA,direct fluorescent antibody
+1237,DFR,dialysate flow rate
+1238,DFS,doppler flow studies
+1239,DFSP,dermatofibrosarcoma protuberans
+1240,DFV,doppler flow velocimetry
+1241,DG,dorsal gluteal
+1242,dg,decigram (one tenth of a gram)
+1243,dgm,decigram (one tenth of a gram)
+1244,DH,dermatitis herpetiformis
+1245,DHEA,dehydroepiandrosterone
+1246,DHEAS,dehydroepiandrosterone sulfate
+1247,DHS,dynamic hip screw
+1248,DHT,dihydrotestosterone
+1249,DHx,drug history
+1250,DI,diabetes insipidus
+1251,diab,diabetes
+1252,diag,diagnosis
+1253,diagm,diagram
+1254,diam,diameter
+1255,DIB,difficulty in breathing
+1256,DIC,disseminated intravascular coagulation
+1257,DID,dissociative identity disorder
+1258,dieb. alt.,every other day
+1259,DIF,direct immunofluorescence
+1260,dif,differential blood count
+1261,DIFA,automated differential
+1262,Diff,differential
+1263,Dig,digitalis
+1264,dig,digoxin
+1265,dil,dilation
+1266,dil.,dilute(d)
+1267,dim,dimension
+1268,dim.,halved
+1269,DIP,distal interphalangeal (joint)
+1270,diph,diphtheria
+1271,DIPJ,distal interphalangeal joint
+1272,dir,direct
+1273,DIRA,deficiency of the interleukin-1-receptor
+1274,dis,disabled
+1275,disc,discontinue
+1276,disch,discharge
+1277,DISCUS,dyskinesia identification system condensed user scale
+1278,DISH,diffuse idiopathic skeletal hyperostosis
+1279,DISIDA,diisopropyl iminodiacetic acid (cholescintigraphy)
+1280,disloc,"dislocate, dislocation"
+1281,disp,dispense
+1282,dissd,dissolved
+1283,dissem,disseminated
+1284,dist,distribute
+1285,div,"divide, division"
+1286,DJD,degenerative joint disease
+1287,DKA,diabetic ketoacidosis
+1288,dkm,decameter
+1289,dL,deciliter (100 ml)
+1290,DL,direct laryngoscopy
+1291,DL-PICC,double lumen peripherally inserted central catheter
+1292,DLE,discoid lupus erythematosus
+1293,DLH,double lumen hickman
+1294,DLS,dynamic lumbar stabilization
+1295,DLSO,distal lateral subungual onychomycosis
+1296,DLV,delavirdine (antiviral drug)
+1297,DLVC,double lumen vascular catheter
+1298,DM,diabetes mellitus
+1299,dm,"decimeter (100 mm, 0.1 m)"
+1300,DMAC,disseminated mycobacterium avium complex
+1301,DMARD,disease-modifying anti-rheumatic drug
+1302,DMAT,disaster medical assistance team
+1303,DMD,Doctor of Medicine in Dentistry
+1304,DME,durable medical equipment
+1305,DMI,diaphragmatic myocardial infarction
+1306,DMPA,depot-medroxyprogesterone acetate
+1307,DMSA,"2,3-dimercaptosuccinic acid"
+1308,DMSO,dimethylsulfoxide
+1309,DN,dibucaine number
+1310,DNA,deoxyribonucleic acid
+1311,DNH,do not hospitalize
+1312,DNI,do not intubate
+1313,DNKA,did not keep appointment
+1314,DNP,do not publish
+1315,DNS,deviated nasal septum
+1316,DNT,did not test
+1317,DO,Doctor of Osteopathic Medicine
+1318,DOA,date of admission
+1319,DOB,date of birth
+1320,DOC,deoxycorticosterone
+1321,DOD,date of death
+1322,DOE,date of exam
+1323,DOH,department of health
+1324,DOI,digital object identifier
+1325,DOL,department of labor
+1326,dom,dominant
+1327,DOMS,delayed onset muscle soreness
+1328,DON,director of nursing
+1329,DOPT,directly observed preventative therapy
+1330,dos,"dose, dosage"
+1331,DOS,date of service
+1332,DOT,directly observed therapy
+1333,DP,dorsalis pedis
+1334,DPA,dual-photon absorptiometry
+1335,DPAP,diastolic pulmonary artery pressure
+1336,DPat,diphtheria-acellular pertussis tetanus (vaccine)
+1337,DPGN,diffuse proliferative glomerulonephritis
+1338,DPH,Department of Public Health
+1339,DPI,dry powder inhaler
+1340,DPL,diagnostic peritoneal lavage
+1341,DPM,Doctor of Podiatric Medicine
+1342,DPT,diphtheria-pertussis-tetanus (vaccine)
+1343,DQ,developmental quotient
+1344,DR,diagnostic radiography
+1345,dr.,dram
+1346,Dr.,doctor
+1347,DRE,digital rectal examination
+1348,DRESS,drug rash with eosinophilia and systemic symptoms
+1349,DRF,drip rate factor
+1350,DRG,diagnosis-related group
+1351,DRI,daily/dietary reference intake
+1352,DS,Down's Syndrome
+1353,DSA,digital subtraction angiography
+1354,DSC,Doctor of Surgical Chiropody
+1355,dsDNA,double-stranded DNA
+1356,DSM,Diagnostic and Statistical Manual
+1357,DSM-IV,"Diagnostic and Statistical Manual of Mental Disorders, 4th Edition"
+1358,DSM-V,"Diagnostic and Statistical Manual of Mental Disorders, 5th Edition"
+1359,DSPS,delayed sleep phase syndrome
+1360,DST,decision support tool
+1361,DSW,Doctor of Social Work
+1362,DT,delirium tremens
+1363,DTAD,drain tube attachment device
+1364,DTaP,"diphtheria, tetanus, acellular pertussis"
+1365,DTH,delayed-type hypersensitivity
+1366,DTIC,dacarbazine
+1367,DTP,"diphtheria, tetanus, and pertussis (vaccine)"
+1368,DTR,deep tendon reflex(es)
+1369,DTs,delirium tremens/tremors
+1370,DU,diagnosis undetermined
+1371,DUB,dysfunctional uterine bleeding
+1372,DUE,drug usage evaluation
+1373,DUI,driving under the influence
+1374,dup,"duplication, duplicate"
+1375,DUR,drug utilization review
+1376,DV,double vision
+1377,DV/SA,domestic violence/sexual assault
+1378,DVD,developmental verbal dyspraxia
+1379,DVI,deep venous insufficiency
+1380,DVM,Doctor of Veterinary Medicine
+1381,DVR,division of vocational rehabilitation
+1382,DW,distilled water
+1383,DWI,driving while intoxicated
+1384,DXA,dual x-ray absorptiometry
+1385,DXM,dextromethorphan
+1386,DXT,radiotherapy
+1387,Dy,Dysprosium (element)
+1388,Dz,disease
+1389,E,Escherichia
+1390,E Ab,elective abortion
+1391,E&A,evaluate and advise
+1392,E&M,evaluation and management
+1393,e-IPV,enhanced potency inactivated poliovirus vaccine
+1394,e-MAR,electronic medication administration record
+1395,E. coli,Escherichia coli
+1396,e.g.,for example (exempli gratia)
+1397,EA,epidural anesthesia
+1398,EAA,essential amino acids
+1399,EAB,elective abortion
+1400,EAC,external auditory canal
+1401,EAE,experimental allergic encephalomyelitis
+1402,eAG,estimated average glucose
+1403,EAR,estimated average requirement
+1404,EB,epidermolysis bullosa
+1405,EBA,epidermolysis bullosa acquisita
+1406,EBB,endobronchial biopsy
+1407,EBBS,equal bilateral breath sounds
+1408,EBF,exclusively breastfed
+1409,EBH,evidence-based healthcare
+1410,EBL,estimated blood loss
+1411,EBLL,elevated blood lead level
+1412,EBM,evidence-based medicine
+1413,EBNA,Epstein-Barr nuclear antigen
+1414,EBV,Epstein-Barr virus
+1415,EC,emergency center
+1416,ECC,extracorporeal circulation
+1417,ECCE,extracapsular cataract extraction
+1418,ECF,extracellular fluid
+1419,Echo,echocardiogra(m/phy)
+1420,ECL,electrochemiluminescence
+1421,ECLAM,European Consensus Lupus Activity Measure
+1422,ECLS,extracorporeal life support
+1423,ECMO,extracorporeal membrane oxygenation
+1424,ECP,emergency contraceptive pill
+1425,ECQ,executive code qualifications
+1426,ECR,emergency chemical restraints
+1427,ECRB,extensor carpi radialis brevis
+1428,ECRL,extensor carpi radialis longus
+1429,ECT,electroconvulsive therapy
+1430,ECU,extensor carpi ulnaris
+1431,ECV,extracellular volume
+1432,ED,effective dose
+1433,ED&C,electrodessication and curettage
+1434,Ed.D,Doctor of Education
+1435,EDB,ethylene dibromide
+1436,EDC,estimated day of confinement
+1437,EDD,estimated date of discharge
+1438,EDL,extensor digitorum longus
+1439,EDP,erythema dyschromicum perstans
+1440,EDR,electrodermal response
+1441,EDTA,edetate calcium disodium
+1442,educ,education
+1443,EDV,epidermodysplasia verruciformis
+1444,EE,Ethinyl estradiol
+1445,EED,erythema elevatum diutinum
+1446,EEE,eastern equine encephalitis
+1447,EEG,electroencephalogram
+1448,EENT,"eye, ear, nose, and throat"
+1449,EER,estimated energy requirement
+1450,EES,Erythromycin (erythromycin ethylsuccinate)
+1451,EF,ejection fraction
+1452,eff,effect
+1453,EFM,electronic fetal monitor
+1454,EFW,estimated fetal weight
+1455,EGA,estimated gestational age
+1456,EGD,esophagogastroduodenoscopy
+1457,EGF,epidermal growth factor
+1458,EGFR,epidermal growth factor receptor [case sensitive]
+1459,eGFR,estimated glomerular filtration rate [case sensitive]
+1460,EGG,electrogastrography
+1461,EH,employee health
+1462,EHB,extensor hallucis brevis
+1463,EHC,emergency hormonal contraception
+1464,EHL,electrohydraulic lithotripsy
+1465,EHR,electronic health record
+1466,EHS,employee health service
+1467,EHT,estrogen hormone therapy
+1468,EI,early intervention
+1469,EIA,enzyme immunoassay
+1470,EIA U,enzyme immunoassay unit
+1471,EID,electronic infusion device
+1472,EIP,extensor indicis proprius
+1473,eIPV,enhanced-potency inactivated poliovirus vaccine
+1474,EJ,external jugular
+1475,EKG,electrocardiogra(m/phy)
+1476,EL,early latent
+1477,el,"elect, elective"
+1478,elb,elbow
+1479,ELDU,extra-label drug use
+1480,elev.,elevated
+1481,ELF,elective low forceps
+1482,ELISA,enzyme-linked immunosorbent assay
+1483,elix,elixir
+1484,ELS,endolymphatic shunt
+1485,EM,electron microscopy
+1486,Em,emmetropia
+1487,EMA-IgA,immunoglobulin a antiendomysial
+1488,Emb,embryo
+1489,EMB,endometrial biopsy
+1490,EMC,electromagnetic compatibility
+1491,emer,emergency
+1492,EMF,electromagnetic field
+1493,EMG,electromyography
+1494,emot,emotion(al)
+1495,emp,as directed (modo praescripto)
+1496,EMQ,extended matching question
+1497,EMR,electronic medical record
+1498,EMS,emergency medical service
+1499,EMT,emergency medical technician
+1500,EMT-P,emergency medical technician paramedic
+1501,EN,erythema nodosum
+1502,ENA,extractable nuclear antigen
+1503,ENDO,endoscop(y/ic)
+1504,Endo,endometriosis
+1505,Enf,Enfamil
+1506,ENG,electronystagmography
+1507,enl,enlarged
+1508,ENL,erythema nodosum leprosum
+1509,ENT,otorhinolaryngology/otolaryngologist
+1510,EOA,esophageal obturator airway
+1511,EOB,Explanation Of Benefits
+1512,EOC,Emergency Operations Center
+1513,EOG,electrooculogram
+1514,EOLC,end of life care
+1515,EOM,extraocular muscles
+1516,EOMI,extraocular movements intact
+1517,EOP,emergency operations plan
+1518,eos,eosinophil
+1519,EOS,end of study
+1520,EP,ectopic pregnancy
+1521,EPA,environmental protection agency
+1522,EPB,extensor pollicis brevis
+1523,EPEP,end positive expiratory pressure
+1524,EPI,echo planar imaging
+1525,epi,epinephrine
+1526,Epi,epidural
+1527,epis,episiotomy
+1528,EPITH,epithelial
+1529,EPL,extensor pollicis longus
+1530,EPO,erythropoietin
+1531,EPR,electron paramagnetic resonance
+1532,EPS,elastosis perforans serpiginosa
+1533,EPSDT,"early and periodic screening, diagnosis, and treatment"
+1534,EPSE,extrapyramidal side effects
+1535,eq,equal
+1536,equip,equipment
+1537,equiv,equivalent
+1538,ER,external rotation
+1539,Er,Erbium (element)
+1540,ERCP,endoscopic retrograde cholangiopancreatography
+1541,ERG,electroretinogram
+1542,ERP,effective refractory period
+1543,ERS,education resource specialist
+1544,ERT,external radiation therapy
+1545,ERV,expiratory reserve volume
+1546,ery/dL,erythrocytes per deciliters
+1547,ES,electrical stimulation
+1548,ESB,electrical stimulation of the brain
+1549,ESBL,extended-spectrum beta laminase
+1550,ESD,electrostatic discharge
+1551,eSET,elective single-embryo transfer
+1552,ESG,estrogen
+1553,ESIG,electronic signature
+1554,ESLD,end-stage liver disease
+1555,ESO,esophagus
+1556,esoph,esophagus
+1557,esp,especially
+1558,ESRD,end-stage renal disease
+1559,ESRF,end stage renal failure
+1560,ESSG,spondylarthropathy study group
+1561,EST,electroshock therapy
+1562,esub,electronic submission
+1563,ESWL,extracorporeal shock wave lithotripsy
+1564,ET,eustachian tube
+1565,et,and
+1566,ET-1,endothelin-1
+1567,ETA,embryo toxicity assay
+1568,ETC,electron transport chain
+1569,etc.,"etcetera, and so on"
+1570,ETCO2,end-tidal carbon dioxide
+1571,ETD,eustachian tube dysfunction
+1572,EtOH,Ethanol or Ethyl alcohol
+1573,ETP,elective termination of pregnancy
+1574,ETS,environmental tobacco smoke (exposure)
+1575,ETT,exercise tolerance test
+1576,ETU,endotoxin unit
+1577,EU,ELISA unit
+1578,Eu,Europium (element)
+1579,EUA,emergency use authorization
+1580,EUS,endoscopic ultrasound
+1581,EV,ELISA value
+1582,evac,"evacuate, evacuation"
+1583,eval,evaluation
+1584,EVAR,endovascular aneurysm repair
+1585,EVD,external ventricular drain
+1586,EVH,endoscopic vein harvesting
+1587,EVOO,extra-virgin olive oil
+1588,Ex,examination
+1589,exam,examination
+1590,exer,exercise
+1591,expir,expire
+1592,ext,extremity
+1593,ext.,external
+1594,F,father
+1595,F&C,foam and condoms
+1596,F&E,fluid and electrolyte
+1597,F-V loop,flow volume loop
+1598,F/H,family history
+1599,F/T,full time
+1600,F/U,follow-up
+1601,FA,forearm
+1602,fa,father
+1603,FACC,Fellow of the American College of Cardiology
+1604,FACD,Fellow of the American College of Dentists
+1605,FACP,Fellow of the American College of Physicians
+1606,FACR,Fellow of the American College of Radiology
+1607,FACS,"Fellow, American College of Surgeons"
+1608,FADL,functional activities of daily living
+1609,FAI,functional assessment inventory
+1610,fam,family
+1611,FAM,fertility awareness method
+1612,FAMA,Fellow of the American Medical Association
+1613,FANA,fluorescent antinuclear antibodies
+1614,FAP,familial adenomatous polyposis
+1615,FAPA,Fellow of the American Psychological Association
+1616,FAS,fetal alcohol syndrome
+1617,fasc,fasciculus
+1618,FAX,facsimile
+1619,FB,foreign body
+1620,FBD,fibrocystic disease
+1621,FBG,fasting blood glucose
+1622,FBM,fetal breathing movements
+1623,FBP,fetal biophysical profile
+1624,FBS,fasting blood sugar
+1625,FCAS,familial cold auto-inflammatory syndrome
+1626,FCB,fibrocystic breast
+1627,FCE,functional capacity evaluation
+1628,FCR,flexor carpi radialis
+1629,FCU,flexor carpi ulnaris
+1630,FD,fire department
+1631,FDA,Food and Drug Administration
+1632,FDB,flexor digitorum brevis
+1633,FDIU,fetal death in utero
+1634,FDL,flexor digitorum longus
+1635,FDLMP,first date last menstrual period
+1636,FDP,flexor digitorum profundus
+1637,FDS,flexor digitorum superficialis
+1638,Fe,Iron (element)
+1639,FEES,flexible endoscopic evaluation of swallowing
+1640,FEF,forced expiratory flow (rate)
+1641,FeLV,feline leukemia virus
+1642,fem,femoral
+1643,FEM-POP,femoral-popliteal
+1644,FES,functional electrical stimulation
+1645,FESS,functional endoscopic sinus surgery
+1646,FET,forced expiratory technique
+1647,FEV,forced expiratory volume
+1648,FEV1,forced expiratory volume in 1 second
+1649,FF,fundus firm
+1650,FFA,free fatty acids
+1651,FFF,fully formula fed
+1652,FFL,flexible fiberoptic laryngoscopy
+1653,FFP,fresh frozen plasma
+1654,FFPE,fresh-frozen paraffin-embedded tissue
+1655,FFR,fractional flow reserve
+1656,FGF,fibroblast growth factor
+1657,FGM,female genital mutilation
+1658,FGT,female genital tract
+1659,FH,family history
+1660,FHB,flexor hallucis brevis
+1661,FHC,family health center
+1662,FHL,flexor hallucis longus
+1663,FHR,fetal heart rate
+1664,FHS,fetal heart sounds
+1665,FHT,fetal heart tone(s)
+1666,FHx,family history
+1667,fib,fibrillation
+1668,FICS,Fellow of the International College of Surgeons
+1669,FIFO,"first in, first out"
+1670,FIH,first-in-human [clinical trials]
+1671,FIM,functional independence measure
+1672,FiO2,fraction of inspired oxygen
+1673,Fis,fusion inhibitors
+1674,FISH,fluorescence in situ hybridization
+1675,FIV,forced inspiratory volume
+1676,fL,femtoliter
+1677,FL,femur length
+1678,fl,fluid
+1679,fl dr,fluid dram
+1680,fl oz,fluid ounce
+1681,fl.,flexor
+1682,Fl02,fraction of inspired oxygen
+1683,fld,fluid
+1684,flex,flexion
+1685,Flu,influenza
+1686,fluoro,fluoroscopy
+1687,FM,frequency modulation
+1688,fm,family
+1689,FMD,family physician
+1690,FMF,Familial Mediterranean Fever
+1691,FMP,first menstrual period
+1692,fMRI,functional magnetic resonance imaging
+1693,FMS,fibromyalgia syndrome
+1694,FMTE,full mouth tooth extraction
+1695,FNA,fine needle aspiration
+1696,FNAC,fine-needle aspiration cytology
+1697,FNE,fiberoptic nasal endoscopy
+1698,FNP,family nurse practitioner
+1699,FOB,foot of bed
+1700,FOBT,fecal occult blood test
+1701,FOC,fronto-occipital circumference
+1702,FOD,free of disease
+1703,FOI,flight of ideas
+1704,FOM,floor of mouth
+1705,font,fontanelle
+1706,FOUO,for official use only
+1707,FP,follicular phase
+1708,FPEM,family planning education materials
+1709,FPG,fasting plasma glucose
+1710,FPIA,fluorescence polarization immunoassay
+1711,FPL,flexor pollicis longus
+1712,fps,foot-pound-second
+1713,FQHC,federally qualified healthcare
+1714,FQN,fluoroquinolone
+1715,FR,flocculation reaction
+1716,fr,from
+1717,frac,fracture
+1718,frag,fragment
+1719,FRC,functional residual capacity
+1720,FRCP,Fellow of the Royal College of Physicians
+1721,FRCS,Fellow of the Royal College of Surgeons
+1722,freq,frequency
+1723,FRG,functional related groups
+1724,Fri,Friday
+1725,FRJM,full range of joint movement
+1726,FROM,full range of motion
+1727,FRS,flexed rotated side bent
+1728,FRV,functional residual volume
+1729,FS,frozen section
+1730,FSBG,finger stick blood glucose/sugar
+1731,FSBS,finger stick blood glucose/sugar
+1732,FSE,fetal scalp electrode
+1733,FSH,follicle-stimulating hormone
+1734,ft,"foot, feet (0.3048 meter)"
+1735,FT,fingertip
+1736,Ft.,make (fiat)
+1737,FTA,fluorescent treponema antigen (test for syphilis)
+1738,FTA-ABS,fluorescent treponemal antibody absorption
+1739,FTD,frontotemporal dementia
+1740,FTI,free testosterone index
+1741,FTN,finger to nose
+1742,FTND,full term normal delivery
+1743,FTP,failure to progress
+1744,FTSG,full-thickness skin graft
+1745,FTT,failure to thrive
+1746,FU,follow-up
+1747,FUDR,floxuridine
+1748,func,function
+1749,FUO,fever of unknown origin
+1750,FVC,forced vital capacity
+1751,FVD,fluid volume deficit
+1752,FVE,fluid volume excess
+1753,FWB,fully weight bearing
+1754,fx,fracture
+1755,FY,fiscal year
+1756,FYI,for your information
+1757,G,gauge
+1758,g,gram
+1759,G&A,general and acute
+1760,G&D,growth and development
+1761,G+,gram positive
+1762,G-,gram negative
+1763,G-CSF,granulocyte-colony stimulating factor
+1764,G-tube,gastrostomy tube
+1765,g/dL,gram per deciliter
+1766,G6-PD,glucose 6 phosphate dehydrogenase
+1767,G6P,glucose 6 phosphate
+1768,G6PD,glucose-6-phosphate dehydrogenase
+1769,g=g,grips equal and good
+1770,GA,general anesthesia
+1771,Ga,Gallium (element)
+1772,GABA,gamma-aminobutyric acid
+1773,GABAB,gamma-aminobutyric acid type b
+1774,GABHS,group a beta-hemolytic streptococcus
+1775,GABRB3,GABAA receptor gene
+1776,GABS,Group A beta-hemolytic streptococcus
+1777,GAD,generalized anxiety disorder
+1778,GAF,global assessment of functioning
+1779,GAG,glycosaminoglycan
+1780,GAL,galactosemia
+1781,gal.,gallon
+1782,garg,gargle
+1783,GAS,general adaptation syndrome
+1784,GB,Guillain-Barre
+1785,GBS,Group B streptococcus
+1786,GC,gonococcus or gonorrheal (gonorrhea coccii)
+1787,GCA,giant cell arteritis
+1788,GCP,good clinical practice
+1789,GCS,Glasgow Coma Scale
+1790,GCT,glucose challenge test
+1791,Gd,Gadolinium (element)
+1792,GD,gestational diabetes
+1793,GDM,gestational diabetes mellitus
+1794,GDS,geriatric depression scale
+1795,GE,gastroenterology
+1796,Ge,Germanium (element)
+1797,GEA/GETA,general endotracheal anesthesia
+1798,gen,general
+1799,GER,gastroesophageal reflux
+1800,GERD,gastroesophageal reflux disease
+1801,GERI,geriatrics
+1802,gest,gestational
+1803,GF,grandfather
+1804,GFM,good fetal movement
+1805,GFR,glomerular filtration rate
+1806,GG,gamma globulin
+1807,GGT,gamma-glutamyl transferase
+1808,GGTP,gamma gluteryl transpeptidase
+1809,GH,growth hormone
+1810,Gh,glenohumeral
+1811,GHB,gamma hydroxybutyrate
+1812,GHIH,growth hormone-inhibiting hormone
+1813,GHJ,glenohumeral joint
+1814,GHRF,growth hormone-releasing factor
+1815,GHRH,growth hormone-releasing hormone
+1816,GI,gastrointestinal
+1817,GIF,graphics interchange format
+1818,GIFT,gamete intrafallopian transfer
+1819,GIRFT,getting it right first time
+1820,GIT,gastrointestinal tract
+1821,GITT,glucose insulin tolerance test
+1822,gl,gland
+1823,Gln,glutamine
+1824,GLP,good laboratory practice
+1825,glu,glucose
+1826,Glu,glutamic acid
+1827,glut max,gluteus maximus
+1828,Gly,glycine
+1829,GM,grandmother
+1830,gm,gram
+1831,GM&S,General Medicine and Surgery
+1832,GM-CSF,granulocyte-macrophage colony-stimulating factor
+1833,gm/dL,grams per deciliter
+1834,GMC,general medical council
+1835,GME,graduate medical education
+1836,GMO,genetically modified organism
+1837,gmo,grandmother
+1838,GN,gram negative
+1839,GNB,gram-negative bacillus
+1840,GNC,gram-negative cocci
+1841,GND,gram-negative diplococci
+1842,GNID,gram-negative intracellular diplococci
+1843,GnRF,gonadotropin-releasing factor
+1844,GnRH,gonadotropin-releasing hormone
+1845,GORD,gastro-esophageal reflux disease
+1846,GOT,glutamic-oxaloacetic transaminase
+1847,govt,government
+1848,GP,general practitioner
+1849,GPC,gram positive cocci
+1850,GPL,IgG phospholipid unit
+1851,GPN,Graduate Practical Nurse
+1852,GPT,glutamic-pyruvic transaminase
+1853,GR,grand rounds
+1854,gr,grain
+1855,grad,by degrees
+1856,GRAS,generally recognized as safe
+1857,GRASE,generally recognized as safe and effective
+1858,grav,pregnancy (gravida)
+1859,GRE,gradient echo
+1860,grp,group
+1861,GS,gram stain
+1862,GSR,galvanic skin response
+1863,GSW,gunshot wound
+1864,GT,gastrostomy tube
+1865,gt,drop (gutta)
+1866,GTH,gonadotropic hormone
+1867,GTN,gestational trophoblastic neoplasia
+1868,gtt,drops (guttae)
+1869,GTT,glucose tolerance test
+1870,GU,gastric ulcer
+1871,GUI,graphical user interface
+1872,GUM,genitourinary medicine
+1873,guttat.,drop by drop
+1874,GVH,graft-versus-host
+1875,GVHD,graft-versus-host disease
+1876,GVL,graft-versus-leukemia
+1877,Gy,Gray (unit of ionizing radiation)
+1878,Gyn,gynecolog(y/ist/ic)
+1879,h,hour
+1880,H,Hydrogen (element)
+1881,H flu,hemophilus influenzae
+1882,H&E,hematoxylin and eosin
+1883,H&H,hematocrit and hemoglobin
+1884,H&L,heart and lungs
+1885,H&N,head and neck
+1886,H&P,history and physical
+1887,H+,hydrogen ion
+1888,h.s.,bedtime
+1889,h/a,headache
+1890,H/H,Henderson-Hasselbalch equation
+1891,H1N1,"Influenza A, swine flu (hemagglutinin type 1 and neuraminidase type 1)"
+1892,H2,histamine 2
+1893,H2O,water
+1894,H2O2,hydrogen peroxide
+1895,H2SO2,sulfuric acid
+1896,HA,hydroxyapatite
+1897,HAA,hepatitis-associated antigen
+1898,HAART,highly active antiretroviral therapy
+1899,HAD,hospital anxiety and depression [scale]
+1900,HAGG,heat-aggregated IgG
+1901,HAIR-AN,"hyperandrogenism (HA), insulin resistance (IR) and acanthosis nigricans (AN)"
+1902,HAL,hyperalimentation
+1903,HAM-D,Hamilton Rating Scale for Depression
+1904,HAMRSA,healthcare associated with MRSA
+1905,HAPE,high-altitude pulmonary edema
+1906,HAQ,health assessment questionnaire
+1907,HAV,hepatitis A vaccine
+1908,HAZMAT,hazardous materials
+1909,HAZOP,hazard and operability
+1910,HB,heart block
+1911,Hb,hemoglobin
+1912,Hb A1c,glycosylated hemoglobin
+1913,HB SA,hepatitis B surface antigen
+1914,HbA,Hemoglobin A
+1915,HbA1c,hemoglobin A1c
+1916,HBAg,hepatitis B antigen
+1917,HbAS,Hemoglobin A and Hemoglobin S (Sickle cell trait)
+1918,HbB,Hemoglobin B
+1919,HbC,Hemoglobin C
+1920,HBcAg,Hepatitis B core antigen
+1921,HBD,hydroxybutyric dehydrogenase
+1922,HBeAg,Hepatitis B e antigen
+1923,HbF,Hemoglobin F
+1924,HBGM,home blood glucose monitoring
+1925,HBIG,hepatitis B immune globulin
+1926,HBO,hyperbaric oxygenation
+1927,HBOT,hyperbaric oxygen therapy
+1928,HBP,high blood pressure
+1929,HBPM,home blood pressure monitoring
+1930,HbS,Hemoglobin S
+1931,HBS,hepatobiliary scintigraphy
+1932,HBsAg,hepatitis B surface antigen
+1933,HBV,hepatitis B vaccine
+1934,HC,hydrocortisone
+1935,HCA,health care assistant
+1936,HCAP,healthcare associated pneumonia
+1937,HCG,human chorionic gonadotropin
+1938,HCI,human-computer interaction
+1939,HCl,hydrochloric acid (hydrogen chloride)
+1940,HCL,hard contact lens
+1941,HCM,hypertrophic cardiomyopathy
+1942,HCMV,human cytomegalovirus
+1943,HCO,health care organization
+1944,HCO3,bicarbonate
+1945,HCP,health care provider/professional
+1946,HCQ,hydroxychloroquine
+1947,HCST,hematopoietic stem cell transplant
+1948,Hct,hematocrit
+1949,HCTZ,hydrochlorothiazide
+1950,HCV,hepatitis C virus
+1951,HCVD,hypertensive cardiovascular disease
+1952,HCW,health care worker
+1953,HCY,homocystinuria
+1954,Hcy,homocysteine
+1955,HD,Huntington's disease
+1956,HDC,high dose chemotherapy
+1957,HDCV,human diploid cell rabies vaccine
+1958,HDI,high-definition imaging
+1959,HDL,high density lipoprotein (cholesterol)
+1960,HDLC,high density lipoprotein cholesterol
+1961,HDN,hemolytic disease of the newborn
+1962,HDP,hydroxymethylene diphosphonate
+1963,HDRS,Hamilton Depression Rating Scale
+1964,HDS,hemodynamically stable
+1965,HDT,home dialysis training
+1966,HDU,high dependency unit
+1967,HDV,hepatitis delta virus
+1968,He,Helium (element)
+1969,HE,home evaluation
+1970,HEENT,"head, eye, ear, nose, and throat"
+1971,HELLP,"hemolysis, elevated liver enzymes, low platelets"
+1972,Hem,hemoglobin
+1973,HEMO,hematology
+1974,HemOnc,hematology/oncology
+1975,Hep,hepatoma cell line
+1976,HEP,home exercise program
+1977,HepA,hepatitis A
+1978,HEPA,high-efficiency particulate air (filtration)
+1979,HepB,hepatitis B
+1980,HER2,human epidermal growth factor receptor 2
+1981,HEV,Hepatitis E virus
+1982,HEW,"Department of Health, Education, and Welfare"
+1983,Hf,Hafnium (element)
+1984,HF,heart failure
+1985,HFA,hydrofluoroalkane
+1986,HFCS,high-fructose corn syrup
+1987,Hg,hemoglobin
+1988,HGA,human granulocytic anaplasmosis
+1989,Hgb,hemoglobin
+1990,HgbA1c,glycosylated hemoglobin
+1991,HGE,human granulocytic ehrlichiosis
+1992,HGF,hematopoietic factor
+1993,HGH,human growth hormone
+1994,HGSIL,high-grade squamous intraepithelial lesion
+1995,HGV,hepatitis g virus
+1996,HH,hiatal hernia
+1997,HHA,home health aide
+1998,HHC,home health care
+1999,HHE,health hazard evaluation
+2000,HHI,Herth Hope Index
+2001,HHNC,hypertonic hyperosmolar non-ketotic coma
+2002,HHRG,home health resource group
+2003,HHS,U.S. Department of Health and Human Services
+2004,HHV-6,human herpesvirus 6
+2005,HI,hepatic insufficiency
+2006,HIA,health impact assessment
+2007,Hib,Haemophilus influenzae type B
+2008,HID,Health Information Design
+2009,HIDA,hepatobiliary iminodiacetic acid (cholescintigraphy)
+2010,HIM,health information management
+2011,HIPAA,Health Insurance Portability and Accountability Act
+2012,his-tRNA,histidyl-transfer RNA
+2013,HIT,health information technology
+2014,HIV,human immunodeficiency virus
+2015,HIV-PEP,HIV postexposure prophylaxis
+2016,HIV-RNA,viral load of HIV
+2017,HJR,hepato jugular reflux
+2018,HL,heparin lock
+2019,HL7,Health Level 7
+2020,HLA,human leukocyte antigen
+2021,HM,hand movement
+2022,HMD,hyaline membrane disease
+2023,HMG-CoA,hydroxymethyl glutaryl coenzyme A
+2024,HMO,health maintenance organization
+2025,HNP,herniated nucleus pulposus
+2026,HNPCC,hereditary non-polyposis colorectal cancer
+2027,hnRNA,heterogeneous nuclear RNA
+2028,hnRNP,heterogeneous nuclear RNP
+2029,HNV,has not voided
+2030,Ho,Holmium (element)
+2031,HOA,hypertrophic osteoarthropathy
+2032,HOB,head of bed
+2033,HOH,hard of hearing
+2034,hor. som,bedtime
+2035,HOSA,health occupations students of
+2036,hosp,hospital
+2037,HP,hot pack
+2038,HPA,hypothalamic-pituitary axis
+2039,HPB,hepatopancreatobiliary
+2040,HPC,history of presenting complaint
+2041,HPF,high-powered field
+2042,HPI,history of present illness
+2043,HPL,human placental lactogen
+2044,HPLC,high-performance liquid chromatography
+2045,HPN,hypertension
+2046,HPS,hypertrophic pyloric stenosis
+2047,HPV,human papilloma virus
+2048,hr,hour
+2049,HR,heart rate
+2050,HRA,health risk assessment
+2051,hrs,hours
+2052,HRSA,Health Resources and Services Administration (U.S.)
+2053,hs,at bedtime (hora somni)
+2054,HS,herpes simplex
+2055,HSA,health services administration
+2056,HSCT,hematopoietic stem cell transplantation
+2057,HSDD,hypoactive sexual desire disorder
+2058,HSG,hysterosalpingogram
+2059,HSIL,high-grade squamous intraepithelial lesion
+2060,HSM,hepatosplenomegaly
+2061,HSP,heat shock protein
+2062,HSS,hyperosmolar hyperglycemic state
+2063,HSV,hypersensitivity vasculitis
+2064,HSV-1,herpes simplex virus type 1
+2065,HSV-2,herpes simplex virus type 2
+2066,HT,hypertension
+2067,ht,height
+2068,HTLV,human T-cell lymphotropic virus
+2069,HTLV-III,human t lymphotropic virus type iii
+2070,HTN,hypertension
+2071,HUD,humanitarian use device
+2072,HUS,hemolytic uremic syndrome
+2073,husb.,husband
+2074,HV,home visit/visitor
+2075,Hy,hyperopia
+2076,hyg,hygiene
+2077,hypo,hypodermic injection
+2078,hyst,hysterectomy
+2079,Hz,hertz (cycles per second)
+2080,HZV,herpes zoster virus
+2081,I,antibody (allergy testing)
+2082,I&D,incision and drainage
+2083,I&O,intake and output
+2084,i.e.,that is (id est)
+2085,I/E,inspiratory/expiratory
+2086,IA,incidental appendectomy
+2087,IABC,intra-aortic balloon counterpulsation
+2088,IABP,intra-aortic balloon pressure/pump
+2089,IAC,internal auditory canal
+2090,IADL,instrumental activities of daily living
+2091,IAW,in accordance with
+2092,IBC,iron binding capacity
+2093,IBCLC,international board certified lactation consultant
+2094,IBD,inflammatory bowel disease
+2095,IBM,inclusion body myositis
+2096,IBRP,independent bathroom privileges
+2097,IBS,irritable bowel syndrome
+2098,IBW,ideal body weight
+2099,IC,immune complex
+2100,iCa,ionized calcium
+2101,ICCE,intracapsular cataract extraction
+2102,ICD,International Classification of Diseases
+2103,ICE,"ideas, concerns, and expectations"
+2104,ICER,incremental cost effectiveness ratio
+2105,ICF,intermediate care facility
+2106,ICH,intracerebral hemorrhage
+2107,ICMP,ischemic cardiomyopathy
+2108,ICN,International Council of Nurses
+2109,ICP,intracranial pressure
+2110,ICS,intercostal space
+2111,ICSH,interstitial cell-stimulating hormone
+2112,ICSI,intracytoplasmic sperm injection
+2113,ICT,insulin coma therapy
+2114,ICTV,International Committee on Taxonomy of Viruses
+2115,ICU,intensive care unit
+2116,ID,identification
+2117,Id.,the same
+2118,IDA,Iron-deficiency anemia
+2119,IDC,institution disciplinary committee
+2120,IDD,insulin dependent diabetes
+2121,IDDM,insulin-dependent diabetes mellitus
+2122,IDG,interdisciplinary group
+2123,IDH,ischemic heart disease
+2124,IDM,infant of diabetic mother
+2125,IDP,individual development plan
+2126,IDR,idiosyncratic drug reaction
+2127,IDT,interdisciplinary team
+2128,IDU,idouridizine
+2129,IDV,indinavir (antiviral drug)
+2130,IED,improvised explosive device
+2131,IEE,intervention effect estimate
+2132,IEF,isoelectric focusing
+2133,IEM,inborn error of metabolism
+2134,IF,immunofluorescence
+2135,IFA,immunofluorescence assay
+2136,IFC,interferential current
+2137,IFE,immunofixation electrophoresis
+2138,IFG,impaired fasting glucose
+2139,IFN,interferon
+2140,IFN-g,Interferon-gamma
+2141,IFR,infection fatality ratio
+2142,iFR,instant wave-free ratio
+2143,Ig,immunoglobulin
+2144,IG,immune globulin(s)
+2145,IgA,immunoglobulin A
+2146,IgD,immunoglobulin D
+2147,IgE,immunoglobulin E
+2148,IGF,insulin-like growth factor
+2149,IGF-1,insulin-like growth factor 1
+2150,IgG,immunoglobulin G
+2151,IGH,impaired glucose homeostasis
+2152,IGIV,immune globulin intravenous
+2153,IgM,immunoglobulin M
+2154,IGR,intrauterine growth retardation
+2155,IGRA,interferon gamma release assay
+2156,IGT,impaired glucose tolerance
+2157,IH,infectious hepatitis
+2158,IHD,ischemic heart disease
+2159,IHSS,idiopathic hypertrophic subaortic stenosis
+2160,II,intellectual impairment
+2161,IICP,increased intracranial pressure
+2162,IID,intermittent infusion device (saline lock)
+2163,IIF,indirect immunofluorescence
+2164,IJ,internal jugular
+2165,IL,interleukin
+2166,ILAR,associations for rheumatology
+2167,IM,infectious mononucleosis
+2168,IMA,inferior mesenteric artery
+2169,IMA (L/R),internal mammary artery-left/right
+2170,IMC,intermediate care
+2171,imm,immunization
+2172,immed,"immediate, immediately (at once)"
+2173,IMP,investigational medicinal product
+2174,imp,impression
+2175,impair,"impaired, impairment"
+2176,IMRT,intensity-modulated radiation therapy
+2177,IMV,intermittent mandatory ventilation
+2178,in,inch (25.4 mm)
+2179,In,Indium (element)
+2180,IN,intranasal
+2181,in d.,daily
+2182,in utero,within the uterus
+2183,incompat,incompatible
+2184,incompl,incomplete
+2185,incr,increase
+2186,ind,independent
+2187,IND,investigational new drug
+2188,indic,"indicate, indication"
+2189,INF,interferon
+2190,inf,inferior
+2191,InFeD,iron dextran
+2192,inflam,inflammation
+2193,Info,information
+2194,ing,inguinal
+2195,inh,inhalation
+2196,INH,Isoniazid
+2197,inhal,inhalation
+2198,inhib,"inhibit, inhibitor"
+2199,inj,injection
+2200,INPT,inpatient
+2201,INR,international normalized ratio
+2202,insp,inspiration
+2203,inst,"instruction, instructed"
+2204,insuff,insufficient
+2205,int,intermittent
+2206,inv,inversion
+2207,IOC,intraoperative cholangiogram
+2208,IOI,intraosseous infusion
+2209,IOL,intraocular lens
+2210,IOM,Institute of Medicine
+2211,IOP,intraocular pressure
+2212,IOV,initial office visit
+2213,IP,intraperitoneal
+2214,IP joint,interphalangeal joint
+2215,IPA,Independent Practice Association
+2216,IPAP,inspired positive airway pressure
+2217,IPC,integrated personal commissioning
+2218,IPD,intermittent peritoneal dialysis
+2219,IPG,impedance plethysmography
+2220,IPI,International Prognostic Index
+2221,IPJ,interphalangeal joint
+2222,IPN,interstitial pneumonia
+2223,IPOC,interdisciplinary plan of care
+2224,IPP,intermittent positive pressure
+2225,IPPA,"inspection, palpation, percussion and auscultation"
+2226,IPPB,intermittent positive pressure breathing
+2227,IPPV,intermittent positive pressure ventilation
+2228,IPS,idiopathic pneumonia syndrome
+2229,IPSID,immunoproliferative small intestinal disease
+2230,IPSP,inhibitory postsynaptic potential
+2231,IPT,interpersonal psychotherapy
+2232,IPV,inactivated poliovirus (vaccine)
+2233,IQ,intelligence quotient
+2234,IR,interventional radiology
+2235,Ir,Iridium (element)
+2236,IRB,institutional review board
+2237,IRDS,infant respiratory distress syndrome
+2238,irreg,irregular
+2239,irrig,"irrigate, irrigation"
+2240,IRS,"identical, related, or similar"
+2241,IRT,internal radiation therapy
+2242,IRV,inspiratory reserve volume
+2243,IS,incentive spirometry
+2244,ISA,intrinsic sympathomimetic activity
+2245,ISB,incentive spirometry breathing
+2246,ISDN,isosorbide dinitrate
+2247,ISG,immune serum globulin
+2248,ISH,isolated systolic hypertension
+2249,ISMN,isosorbide mononitrate
+2250,ISR,immune status ration
+2251,IT,immunotherapy
+2252,ITB,iliotibial band
+2253,ITP,idiopathic/immune thrombocytopenia purpura
+2254,ITT,insulin tolerance test
+2255,ITU,intensive therapy unit
+2256,IU,international unit
+2257,IUCD,intrauterine contraceptive device
+2258,IUD,intrauterine device (contraceptive)
+2259,IUFD,intrauterine fetal death/demise
+2260,IUGR,intrauterine growth retardation
+2261,IUI,intrauterine insemination
+2262,IUO,investigation use only
+2263,IUP,intrauterine pregnancy
+2264,IUPC,intrauterine pressure catheter
+2265,IUS,intrauterine system
+2266,IV,intravenous
+2267,IV&V,independent verification and validation
+2268,IVAD,intravenous access device
+2269,IVC,intravenous cholangiogram
+2270,IVCD,intra ventricular conduction delay
+2271,IVD,intervertebral disk disease
+2272,IVDA,intravenous drug abuse
+2273,IVDC,intravascular disseminated coagulation
+2274,IVDU,intravenous drug user
+2275,IVE,intravascular embolization
+2276,IVF,in vitro fertilization
+2277,IVH,intraventricular hemorrhage
+2278,IVHA,intravenous hyperalimentation
+2279,IVIG,intravenous immunoglobulin
+2280,IVMD,in vitro medical device
+2281,IVP,intravenous piggyback
+2282,IVPB,intravenous piggyback
+2283,IVR,idioventricular rhythm
+2284,IVRA,intravenous regional anesthesia
+2285,IVSS,intravenous soluset
+2286,IVU,intravenous urography
+2287,IWMI,inferior wall myocardial infarction
+2288,J,joule
+2289,J-tube,jejunostomy tube
+2290,JAMA,Journal of the American Medical Association
+2291,JCA,juvenile chronic arthritis
+2292,JCAHO,Joint Commission on Accreditation of Healthcare Organizations
+2293,JIA,juvenile idiopathic arthritis
+2294,JL,Judkins left (catheter)
+2295,JND,just noticeable difference
+2296,jnt,joint
+2297,JOD,juvenile-onset diabetes
+2298,JODM,juvenile onset diabetes mellitus
+2299,JP,Jackson-Pratt (drain)
+2300,JR,junctional rhythm
+2301,JRA,juvenile rheumatoid arthritis
+2302,jt,joint
+2303,juv,juvenile
+2304,JVD,jugular venous distention
+2305,JVP,jugular venous pressure
+2306,K,Potassium (element)
+2307,k/uL,kilo per microliter
+2308,KA,ketoacidosis
+2309,KAFO,knee ankle foot orthosis
+2310,KB,ketone bodies
+2311,Kcal,kilocalories
+2312,KCl,potassium chloride
+2313,KCS,keratoconjunctivitis sicca
+2314,KCT,kaolin clotting time
+2315,KCTT,kaolin cephalin thromboplastin time
+2316,KD,Kawasaki disease
+2317,kDa,kilodalton
+2318,KDA,known drug allergy
+2319,kDNA,kinetoplast DNA
+2320,KED,Kendrick Extrication Device
+2321,KELS,Kohlman Evaluation of Living Skills
+2322,kg,"kilogram (1 kg = 2.2 pounds = 1,000 g)"
+2323,KI,potassium iodine
+2324,KLS,"kidney, liver, spleen"
+2325,km,kilometer
+2326,KOH,potassium hydroxide
+2327,kPa,kilopascal
+2328,KPC,Klebsiella Pneumonia Carbapenemase
+2329,KPI,key performance indicator
+2330,Kr,Krypton (element)
+2331,KS,Kaposi's Sarcoma
+2332,kU/L,kilounit per liter (allergy testing)
+2333,KUB,"kidney, ureters, and bladder (x-ray)"
+2334,kv,kilovolt
+2335,KVO,keep vein open
+2336,L,length
+2337,L Cx,left circumflex
+2338,L&A,light and accommodation
+2339,L&B,laryngoscopy and bronchoscopy
+2340,L&D,light and distance
+2341,L&U,lower and upper
+2342,L&W,living and well
+2343,L-1,first lumbar vertebra
+2344,L-2,second lumbar vertebra
+2345,L-3,third lumbar vertebra
+2346,L-4,fourth lumbar vertebra
+2347,L-5,fifth lumbar vertebra
+2348,L-dopa,Levodopa
+2349,L-R,left to right
+2350,L/min,liters per minute
+2351,L/Min L/m,liters per minute
+2352,L/R,left to right
+2353,L/S ratio,lecithin to sphingomyelin ratio
+2354,LA,long-acting (medicine)
+2355,La,Lanthanum (element)
+2356,LAA,left atrial appendage
+2357,lab,laboratory
+2358,LABA,long-acting beta agonist
+2359,LAC,lupus anticoagulant
+2360,lact,lactating
+2361,LAD,lymphadenopathy
+2362,LADD,diagonal branch of the left anterior
+2363,LAE,left atrial enlargement
+2364,LAFa,left anterior forearm
+2365,LAFB,left anterior fascicular block
+2366,LAHB,left anterior hemiblock
+2367,LAIV,live attenuated influenza vaccine
+2368,LAM,lactation amenorrhea method
+2369,LAO,left anterior oblique
+2370,lap,laparoscop(y/ic)
+2371,LAP,leukocyte alkaline phosphatase
+2372,laryngol,laryngological
+2373,LASER,light amplification by stimulated emission of radiation
+2374,LASIK,laser assisted in situ keratomileusis
+2375,LAT,left anterolateral thigh
+2376,lat.,lateral
+2377,LATS,long-acting thyroid stimulator
+2378,LAVH,laparoscopic assisted vaginal hysterectomy
+2379,lax,loose
+2380,LB,live birth
+2381,lb,pound
+2382,LBBB,left bundle branch block
+2383,LBP,low back pain
+2384,lbs,pounds
+2385,LBW,low birth weight
+2386,LC-MS,liquid chromatography mass spectrometry
+2387,LCA,left coronary artery
+2388,LCAD,long-chain acyl-CoA dehydrogenase deficiency
+2389,LCD,liquor carbonis detergens
+2390,LCF,left cubital fossa
+2391,LCIS,lobular carcinoma in situ
+2392,LCL,lateral collateral ligament
+2393,LCM,left costal margin
+2394,LCMV,lymphocytic choriomeningitis virus
+2395,LCPD,Legg-Calve-Perthes disease
+2396,LCSW,Licensed Clinical Social Worker
+2397,LCX,left circumflex
+2398,LD,learning disability
+2399,LD50,lethal dose at which 50% of animal test group dies
+2400,LDH,lactate dehydrogenase
+2401,LDR,"labor, delivery, recovery"
+2402,LDRP,"labor, delivery, recovery, postpartum room"
+2403,LDUH,low-dose-unfractionated heparin
+2404,LE,left eye
+2405,LEEP,loop electrosurgical excision procedure
+2406,LEP,laparoscopic extraperitoneal approach
+2407,LES,lower esophageal sphincter
+2408,LET,"lidocaine, epinephrine, tetracaine"
+2409,LETZ,loop electrosurgical excision procedure
+2410,Leu,leucine
+2411,LFA,left forearm
+2412,LFD,low fat diet
+2413,LFTS,liver function test series
+2414,LG,left gluteal/gluteus
+2415,lg,large
+2416,LGA,large for gestational age
+2417,LGI,lower gastrointestinal
+2418,LGL,large granular lymphocyte
+2419,LGM,left upper outer gluteus maximus
+2420,LGSIL,"low-grade squamous, intra-epithelial lesion"
+2421,LGV,lymphogranuloma venereum
+2422,LH,luteinizing hormone
+2423,LHRH,luteinizing hormone-releasing hormone
+2424,LHS,long handled sponge
+2425,Li,Lithium (element)
+2426,LIF,leukemia inhibitory factor
+2427,LIFA,left inner forearm
+2428,lig,ligament
+2429,LIH,left inguinal herniorrhaphy
+2430,LIMA,left internal mammary artery
+2431,liq,fluid
+2432,LIQ,lower inner quadrant
+2433,LITT,laser-induced interstitial thermotherapy
+2434,LKS,"liver, kidney, and spleen"
+2435,LL,left lateral
+2436,LLB,long leg brace
+2437,LLC,long leg cast
+2438,LLE,left lower extremity
+2439,LLL,left lower (lung) lobe
+2440,LLQ,left lower quadrant (abdomen)
+2441,LLSB,left lower sternal border
+2442,LMA,laryngeal mask airway
+2443,LMCA,left main coronary artery
+2444,LMD,local medical doctor
+2445,LMHC,Licensed Mental Health Counselor
+2446,LML,left mediolateral
+2447,LMN,lower motor neuron
+2448,LMO,living modified organism
+2449,LMWH,low-molecular-weight heparin
+2450,LN,lymph node
+2451,LNMP,last normal menstrual period
+2452,LOA,leave of absence
+2453,LOB,loss of balance
+2454,LOC,loss of consciousness
+2455,LoChol,low cholesterol
+2456,LOF,loss of function
+2457,LOFA,left outer forearm
+2458,LOM,loss/limitation of motion
+2459,LOMSA,"left otitis media, suppurative, acute"
+2460,LOMSCH,"left otitis media, suppurative, chronic"
+2461,LOOP,loop electrosurgical excision procedure
+2462,LOP,left occiput posterior
+2463,LOQ,lower outer quadrant
+2464,LOR,loss of resistance
+2465,LOS,length of stay
+2466,LOT,left occiput transverse
+2467,lot,lotion
+2468,LP,lumbar puncture
+2469,LPcP,light perception with projection
+2470,LPD,luteal phase defect
+2471,LPFB,left posterior fascicular block
+2472,LPI,laser peripheral iridotomy
+2473,LPM,liters per minute (oxygen)
+2474,LPN,licensed practical nurse
+2475,LPO,left posterior oblique
+2476,LPT,licensed physical therapist
+2477,LQR/LSR,locked quiet room/locked seclusion room
+2478,LQTS,long QT syndrome
+2479,LR,lateral rectus
+2480,LRI,lower respiratory infection
+2481,LRNE,low risk nutrition education
+2482,LRSB,lower right sternal border
+2483,LRT,lower respiratory tract
+2484,LRTI,lower respiratory tract infection
+2485,LS,lumbosacral
+2486,LS ratio,lecithin-sphingomyelin ratio
+2487,LSB,left sternal border
+2488,LSC,left subclavian
+2489,LSD,lysergic acid diethylamide (sl: acid)
+2490,LSIL,low-grade squamous intraepithelial lesion
+2491,LSK,"liver, spleen, kidneys"
+2492,LSO,left salpingo-oophorectomy
+2493,LT,left tilt
+2494,Lt,left
+2495,LTB,laryngotracheobronchitis
+2496,LTC,long-term care (facility)
+2497,LTCF,long-term care facility
+2498,LTD,lowest tolerated dose
+2499,LTE,life-threatening event
+2500,LTG,long-term goals
+2501,LTH,luteotropic hormone
+2502,LTL,laparoscopic tubal ligation
+2503,LTM,long-term memory
+2504,LTP,long-term potentiation
+2505,LTR,laryngotracheal reconstruction
+2506,LTV,long-term variability
+2507,ltx,latex
+2508,Lu,Lutetium (element)
+2509,LUA,left upper arm
+2510,LUD,left uterine displacement
+2511,LUE,left upper extremity
+2512,LUL,left upper (lung) lobe
+2513,LUQ,left upper quadrant (abdomen)
+2514,LUT,left upper thigh
+2515,LV,left ventricle
+2516,LVA,left ventricular aneurysm
+2517,LVAD,left ventricular assist device
+2518,LVEDP,left ventricular end-diastolic pressure
+2519,LVEF,left ventricular ejection fraction
+2520,LVF,left ventricular function
+2521,LVG,left ventriculogram
+2522,LVH,left ventricular hypertrophy
+2523,lvl,level
+2524,LVL,left vastus lateralis
+2525,LVN,licensed vocational nurse
+2526,LWD,living with disease
+2527,LWOT,left without treatment
+2528,LWS,low wall suction
+2529,LXT,exotropia (left)
+2530,lymphs,lymphocytes
+2531,Lys,lysine
+2532,lytes,electrolytes
+2533,m,minim
+2534,M,myopia
+2535,M&F,mother and father
+2536,M-CSF,macrophage colony-stimulating factor
+2537,M. tb,mycobacterium tuberculosis
+2538,M/Hx,medical history
+2539,M/S,musculoskeletal
+2540,M/uL,million per microliter
+2541,M1,mitral first sound
+2542,M2,mitral second sound
+2543,MA,mental age
+2544,mA,milliampere
+2545,MABP,mean arterial blood pressure
+2546,MAC,mycobacterium avium complex
+2547,MAD,multiple autoimmune disorder
+2548,MADD,mothers against drunk driving
+2549,MAE,moving all extremities
+2550,MAFO,molded ankle foot orthosis
+2551,Mag,magnesium
+2552,MAI,mycobacterium avium intracellular
+2553,MAL,mid-axillary line
+2554,MALT,mucosa-associated lymphoid tissue
+2555,MAMC,midarm muscle circumference
+2556,man. prim.,first thing in the morning
+2557,mand,mandatory
+2558,MAO,monoamine oxidase
+2559,MAO-B,monoamine oxidase-b
+2560,MAOI,monoamine oxidase inhibitor
+2561,MAP,mean arterial pressure
+2562,MAR,medication administration record
+2563,MASH,mobile army surgical hospital
+2564,MAST,military anti-shock trousers
+2565,mast,mastectomy
+2566,MAT,miller analogies test
+2567,max,"maxilla, maxillary"
+2568,MBC,maximum breathing capacity
+2569,MBD,minimal brain dysfunction
+2570,MBPS,Munchausen-by-proxy syndrome
+2571,MC,medical corps
+2572,mc,millicurie
+2573,MC&S,"microscopy, culture, and sensitivity"
+2574,MCA,middle cerebral artery
+2575,MCAD,medium-chain acyl-CoA dehydrogenase (deficiency)
+2576,MCAT,Medical College Admissions Test
+2577,MCC,major complication or comorbidity
+2578,MCD,multiple carboxylase deficiency
+2579,MCF,middle cranial fossa
+2580,mcg,microgram
+2581,MCH,mean corpuscular hemoglobin
+2582,MCh,Master of Surgery (magister chirurgiae)
+2583,MCHB,Maternal and Child Health Bureau
+2584,MCHC,mean corpuscular hemoglobin concentration
+2585,MCI,mild cognitive impairment
+2586,mCi,millicurie
+2587,MCL,mid-clavicular line
+2588,MCM,medical countermeasure
+2589,MCO,managed care organization
+2590,MCP,metacarpal phalangeal
+2591,MCPJ,metacarpophalangeal joint
+2592,MCQ,multiple-choice question
+2593,MCV,meningococcal vaccine
+2594,MD,muscular dystrophy
+2595,MDA,medical device alert
+2596,MDD,maximum daily dose
+2597,MDE,major depressive episode
+2598,MDI,metered dose inhaler
+2599,MDR,multi-drug resistant
+2600,MDR TB,multi-drug resistant tuberculosis
+2601,MDS,Master of Dental Surgery
+2602,MDT,multidisciplinary team
+2603,MDU,Medical Defence Union
+2604,ME,medical examiner
+2605,ME ratio,myeloid/erythroid ratio
+2606,MEA,multiple endocrine adenomatosis
+2607,med,medical
+2608,MED,minimum effective dose
+2609,med neb,medication nebulizer
+2610,meds,medicines
+2611,MEFR,maximum expiratory flow rate
+2612,MEG,magnetoencephalography
+2613,MELD,model for end-stage liver disease
+2614,mem,member
+2615,MEN,multiple endocrine neoplasia
+2616,MEO,most efficient organization
+2617,mEq,milliequivalent
+2618,mEq/L,milliequivalent per liter
+2619,MERT,medical emergency response team
+2620,MET,metabolic ratio equivalent
+2621,Met,methionine
+2622,metab,"metabolic, metabolism"
+2623,mets,metastasis
+2624,MF,mid forceps
+2625,MFC,medial femoral condyle
+2626,MFFD,medically fit for discharge
+2627,MFM,maternal fetal medicine
+2628,mfr,manufacturer
+2629,mg,milligram (one thousandth of a gram)
+2630,Mg,Magnesium (element)
+2631,MG,myasthenia gravis
+2632,mg/dl,milligrams per deciliter
+2633,mgA,antibody (allergy testing)
+2634,MGF,maternal grandfather
+2635,MGL,IgM phospholipid unit
+2636,MGM,maternal grandmother
+2637,MgSO4,magnesium sulfate
+2638,MH,mental health
+2639,MHC,Mental Health Center
+2640,MHE,mental health evaluator
+2641,MHI,mild head injury
+2642,MHR,maternal heart rate
+2643,MHT,menopause hormone therapy
+2644,MHU,mental health unit
+2645,mHz,megahertz (1 million hertz)
+2646,MI,mental illness
+2647,MI-CD,mentally ill and chemically dependent
+2648,MI-D,mentally ill and dangerous
+2649,MIC,methyl isocyanate
+2650,microg,microgram
+2651,microIU,micro-international unit
+2652,MICU,medical intensive care unit
+2653,MID,multi-infarct dementia
+2654,mid,middle
+2655,MIF,melanocyte-inhibiting factor
+2656,Min,minute
+2657,MIP,Managed Indemnity Program/Plan
+2658,MIS,management information system/service
+2659,misc,miscellaneous
+2660,mist.,a mixture
+2661,mIU,milli-international unit
+2662,MIVA,monitored intravenous anesthesia
+2663,mJ,millijoule
+2664,ML,midline
+2665,ml,milliliter (0.001 L)
+2666,MLBW,moderate to low birthweight
+2667,MLC,midline catheter
+2668,MLD,median lethal dose
+2669,MLE,midline episiotomy
+2670,MLF,medial longitudinal fasciculus
+2671,MLPA,multiplex ligation dependent probe amplification
+2672,MLT,medical laboratory technician
+2673,MM,malignant melanoma
+2674,mM,millimole
+2675,mm,millimeter (0.001 m)
+2676,mm3,cubic millimeter
+2677,MMA,methylmalonic acid
+2678,MMEFR,maximal mid-expiratory flow rate
+2679,MMF,maxillomandibular fixation
+2680,MMFR,maximum mid-expiratory flow rate
+2681,mmHg,millimeter of mercury
+2682,MMI,methimazole
+2683,mmol,millimole (1/1000th of a mole)
+2684,mMol,millimole
+2685,MMPI,Minnesota Multiphasic Personality Inventory
+2686,MMR,(DNA) mismatch repair
+2687,MMSE,mini mental state examination
+2688,MMT,manual muscle test
+2689,Mn,Manganese (element)
+2690,MN,Master of Nursing
+2691,MND,motor neuron disease
+2692,MNT,medical nutrition therapy
+2693,mo,month
+2694,Mo,Molybdenum (element)
+2695,MO,medical officer
+2696,MOA,memorandum of agreement
+2697,MOAB,monoclonal antibodies
+2698,MoCA,Montreal Cognitive Assessment
+2699,MODS,multiple organ dysfunction syndrome
+2700,MODY,maturity-onset diabetes of the young
+2701,MOI,mechanism of injury
+2702,mol,mole
+2703,mol wt,molecular weight
+2704,MOM,milk of magnesia
+2705,MONA,"morphine, oxygen, nitrates, aspirin"
+2706,mono,monocyte
+2707,mor. dict.,as directed
+2708,mor. sol.,as accustomed
+2709,mOs,milliosmole
+2710,mOsm,milliosmole
+2711,MOU,memorandum of understanding
+2712,mp,as directed (modo praescripto)
+2713,MP,midplane
+2714,MP MIA,microlatex particle mediated immunoassay
+2715,MPAP,mean pulmonary artery pressure
+2716,MPB,multipodus boot
+2717,MPC,maximum permitted concentration
+2718,MPD,myeloproliferative disorders
+2719,MPH,miles per hour
+2720,MPJ,metacarpophalangeal joint
+2721,MPN,most probable number
+2722,MPS,mucopolysaccharidosis
+2723,MPV,mean platelet volume
+2724,mr,milliroentgen
+2725,MR,magnetic resonance
+2726,MRA,magnetic resonance angiography
+2727,Mrad,megarad
+2728,mrad,millirad
+2729,MRC,medical research council
+2730,MRCP,magnetic resonance cholangiopancreatography
+2731,mrem,millirem
+2732,MRF,melanocyte-stimulating hormone-releasing factor
+2733,MRG,murmur rub gallop
+2734,MRgFUS,MR-guided focused ultrasound surgery
+2735,mRNA,messenger RNA
+2736,MRS,magnetic resonance spectroscopy
+2737,MRSA,methicillin-resistant staphylococcus aureus
+2738,MRSE,methicillin-resistant staphylococcus epidermidis
+2739,MS,morphine sulfate
+2740,mS,millisecond
+2741,MSA,multiple system atrophy
+2742,MSAFP,maternal serum alpha-fetoprotein
+2743,MSDS,material safety data sheet
+2744,MSE,mental status examination
+2745,MSF,meconium stained fluid
+2746,MSG,monosodium glutamate
+2747,MSH,melanocyte-stimulating hormone
+2748,MSI,magnetic source imaging
+2749,MSk,musculoskeletal
+2750,MSL,midsternal line
+2751,MSN,Master of Science in Nursing
+2752,MSOF,multi system organ failure
+2753,MSR,motor sensory reflex
+2754,MST,multi-systemic therapy
+2755,MSU,midstream specimen of urine
+2756,MSW,Master of Social Work
+2757,MT,medical technologist
+2758,MTB,mycobacterium tuberculosis
+2759,MTBI,mild traumatic brain injury
+2760,MTC,medullary thyroid cancer
+2761,MTD,maximum tolerated dose
+2762,mthy,monthly
+2763,MTP,metatarsal phalangeal
+2764,MTPJ,metatarsophalangeal joint
+2765,MTX,methotrexate
+2766,mU,milliunit
+2767,MUA,medically underserved areas
+2768,MUD,matched unrelated donor
+2769,MUFA,monounsaturated fatty acids
+2770,MUGA,multiple gated acquisition
+2771,mult,multiple
+2772,MUS,medically unexplained symptoms
+2773,musc,muscle
+2774,MUT,Methylmalonyl-CoA mutase deficiency
+2775,mV,millivolt
+2776,MV,mitral valve
+2777,mv.,movement
+2778,MVA,motor vehicle accident
+2779,MVC,motor vehicle collision
+2780,MVI,multivitamin (injection)
+2781,MVO2,myocardial oxygen consumption
+2782,MVP,mitral valve prolapse
+2783,MVR,mitral valve repair/replacement/regurgitation
+2784,MVS,mitral valve stenosis
+2785,MVV,maximum voluntary ventilation
+2786,MW,molecular weight
+2787,mx.,maxillary
+2788,MxT,myringotomy and tubes
+2789,My,myopia
+2790,N,normal
+2791,n,nerve
+2792,N&V,nausea and vomiting
+2793,n.b.,note well
+2794,n.p.o.,nothing by mouth (nil per os)
+2795,n.r.,do not repeat
+2796,,not applicable
+2797,N/C,nasal cannula
+2798,N/V,nausea/vomiting
+2799,N/V/D,"nausea, vomiting, diarrhea"
+2800,,Nursing Assistant
+2801,Na,Sodium (element)
+2802,NAA,nucleic acid amplification
+2803,NABS,normal active bowel sounds
+2804,NaCl,Sodium Chloride
+2805,NAD,no apparent distress
+2806,NAF,notice of adverse findings
+2807,NAFLD,non-alcoholic fatty liver disease
+2808,NAI,no action indicated
+2809,NaOH,sodium hydroxide
+2810,NASH,non-alcoholic steatohepatitis
+2811,NAT,non-accidental trauma
+2812,NB,newborn
+2813,Nb,Niobium (element)
+2814,NBHS,newborn hearing screen
+2815,NBN,newborn
+2816,NBRT,National Board for Respiratory Therapy
+2817,NBTNF/M,"newborn, term, normal, female/male"
+2818,NC,nasal cannula
+2819,NCAT,"normocephalic, atraumatic"
+2820,NCHS,National Center for Health Statistics
+2821,NCI,National Cancer Institute
+2822,nCi,nanocurie
+2823,NCP,nursing care plan
+2824,NCPAP,nasal continuous positive airway pressure
+2825,NCS,nerve conduction study
+2826,ND,not diagnosed
+2827,Nd,Neodymium (element)
+2828,NDA,non-disclosure agreement
+2829,NDC,national drug code
+2830,NDF,no disease found
+2831,nDNA,native DNA
+2832,NDT,neurodevelopmental treatment
+2833,NE,not evaluated/not examined
+2834,Ne,Neon (element)
+2835,neb,nebulizer
+2836,NEC,necrotizing enterocolitis
+2837,NED,no evidence of disease
+2838,neg,negative
+2839,NEL,non-elective
+2840,nerv,nervous
+2841,Neuro,neurology
+2842,Neut,neutrophil
+2843,NF,national formulary
+2844,NF1,neurofibromatosis type 1
+2845,NFA,nursing facility administrator
+2846,NFP,natural family planning
+2847,NFTD,normal full term delivery
+2848,ng,nasogastric
+2849,NGF,nerve growth factor
+2850,NGR,nasogastric replacement
+2851,NGS,next generation sequencing
+2852,NGT,nasogastric tube
+2853,NGTD,no growth to date (culture status)
+2854,NGU,nongonococcal urethritis
+2855,NH,nursing home
+2856,NH3,Ammonia
+2857,NHC,National Health Council
+2858,NHIC,National Health Information Center
+2859,NHL,non-Hodgkin's lymphoma
+2860,NHP,nursing home placement
+2861,NHS,National Health Service
+2862,NI,not indicated
+2863,Ni,Nickel (element)
+2864,NIBP,non-invasive blood pressure
+2865,NICE,National Institute for Health and Care Excellence
+2866,NICMP,nonischemic cardiomyopathy
+2867,NICU,neonatal intensive care unit
+2868,NIDDM,non-insulin-dependent diabetes mellitus
+2869,NIF,negative inspiratory force
+2870,NIH,National Institutes of Health
+2871,NIHSS,National Institutes of Health Stroke Scale
+2872,NIL,negative intraepithelial lesion
+2873,NIMH,National Institute of Mental Health
+2874,NINR,National Institute of Nursing Research
+2875,NIOSH,National Institute for Occupational Safety and Health
+2876,NIPVL,non-invasive peripheral vascular laboratory
+2877,NIV,non-invasive ventilation
+2878,NK,not known
+2879,NKA,no known allergies
+2880,NKDA,no known drug allergies
+2881,NKFA,no known food allergies
+2882,NKHG,nonketotic hyperglycinemia
+2883,NL,normal
+2884,nL,nanoliter (billionth of a liter)
+2885,NLN,National League for Nursing
+2886,NLT,not less than
+2887,NM,non monitored
+2888,nm,nanometer (billionth of a meter)
+2889,NMDA,N-methyl D-aspartate
+2890,NMJ,neuromuscular junction
+2891,nmol,nanomole
+2892,NMR,nuclear magnetic resonance
+2893,NMS,neuroleptic malignant syndrome
+2894,NMT,not more than
+2895,nn,nerves
+2896,NNRTI,non-nucleoside reverse transcriptase inhibitor
+2897,NNU,neonatal unit
+2898,no,number
+2899,NO,nitric oxide
+2900,NO2,nitrous oxide
+2901,noct,"nocturnal, night"
+2902,noct.,in the night (nocte)
+2903,NOE,naso-orbito-ethmoid
+2904,NOI,nature of illness
+2905,non rep,do not repeat
+2906,Norm,normal
+2907,NOS,not otherwise specified
+2908,NP,neuropsychiatric
+2909,NP-CPAP,nasopharyngeal continuous positive airway pressure
+2910,NPA,nasopharyngeal airway
+2911,NPC,non-protein calories
+2912,NPH,neutral protamine Hagedorn
+2913,NPN,nonprotein nitrogen
+2914,NPO,nothing by mouth (nil per os)
+2915,NPPV,noninvasive positive pressure ventilation
+2916,NPT,nocturnal penile tumescence
+2917,NPWT,negative pressure wound therapy
+2918,NQMI,non-Q wave myocardial infarction
+2919,NR,normal record
+2920,NRC,national research council
+2921,NRDS,neonatal respiratory distress syndrome
+2922,NREM,non-rapid eye movement
+2923,NRM,non-rebreathing mask
+2924,NRT,nicotine replacement therapy
+2925,NRTI,nucleoside reverse transcriptase inhibitors
+2926,NS,nervous system
+2927,ns,nanosecond
+2928,NSA,no significant abnormality
+2929,NSAID,nonsteroidal anti-inflammatory drug
+2930,NSC,national safety council
+2931,NSCLC,non-small cell lung cancer
+2932,NSD,normal spontaneous (full term) delivery
+2933,nsec,nanosecond
+2934,Nsg,nursing
+2935,NSI,nasal saline irrigations
+2936,NSICU,neurosciences intensive care unit
+2937,NSR,normal sinus rhythm
+2938,NSS,normal saline solution
+2939,NSSP,"normal size, shape, position"
+2940,NST,non-stress test
+2941,NSTEMI,non-ST elevation myocardial infarction
+2942,NSU,nonspecific urethritis
+2943,NSV,non-specific vaginitis
+2944,NSVD,normal spontaneous vaginal delivery
+2945,NT,nuchal translucency
+2946,NT/ND,non-tender/non-distended
+2947,NTB,neuropsychological test battery
+2948,NTD,neural tube defect
+2949,NTG,nitroglycerin
+2950,NTM,non-tuberculosis mycobacteria
+2951,NTT,nasotracheal tube
+2952,NUG,necrotizing ulcerative gingivitis
+2953,nullip,nullipara
+2954,NUP,necrotizing ulcerative periodontitis
+2955,nutr,nutrition
+2956,NV,nausea and vomiting
+2957,nv,near vision
+2958,NVA,neurovascular assessment
+2959,NVD,"nausea, vomiting, diarrhea"
+2960,NVS,neurological vital signs
+2961,NVT,neurovascular and tendon
+2962,NWB,non weight bearing
+2963,NYD,not yet diagnosed
+2964,O,oral
+2965,O&E,observation and examination
+2966,O&G,obstetrics and gynecology
+2967,O&P,ova and parasites
+2968,O-A,occipital-atlas
+2969,o.d.,once daily (omni die)
+2970,O.D.,right eye (oculus dexter)
+2971,o.h.,every hour (omni hora)
+2972,o.m.,every morning (omni mane)
+2973,o.n.,every night (omni nocte)
+2974,O.S.,left eye (oculus sinister)
+2975,O/E,on examination
+2976,O/R,"oral, rectal"
+2977,O2,oxygen
+2978,O2Sat,Oxygen saturation (percent)
+2979,O3,ozone
+2980,o:,objective
+2981,OA,osteoarthritis
+2982,OAE,oto acoustic emissions
+2983,OB,obstetrics
+2984,OB+,occult blood positive
+2985,OB-Gyn,obstetrics and gynecology
+2986,OB/GYN,obstetrics/gynecology
+2987,OBS,organic brain syndrome
+2988,OBS/OBD,organic brain syndrome/organic brain disorder
+2989,obsd,observed
+2990,obst,"obstruct, obstruction"
+2991,OBT,over-bed table
+2992,OBUS,obstetrical ultrasound
+2993,OC,oral contraceptive
+2994,occ,occasional
+2995,OCD,obsessive compulsive disorder
+2996,OCG,oral cholecystogram
+2997,OCL,orthopedic cast for limb
+2998,OCP,oral contraceptive pills
+2999,OCR,ossicular chain reconstruction
+3000,OCT,oxytocin challenge test
+3001,OD,overdose
+3002,od,every day (omnes dies)
+3003,ODD,oppositional defiant disorder
+3004,ODT,orally disintegrating tablet
+3005,OE,otitis externa
+3006,OFC,occipital-frontal circumference
+3007,OFTT,organic failure to thrive
+3008,OG,orogastric
+3009,OGD,oesophagogastroduodenoscopy
+3010,OGT,oral glucose tolerance (test)
+3011,OGTT,oral glucose tolerance test
+3012,OH,oral hygiene
+3013,OH-,hydroxyl ion
+3014,OI,opportunistic infection
+3015,OIC,opioid-induced constipation
+3016,oint,ointment
+3017,OL,left eye (oculus laevus)
+3018,ol.,oil
+3019,OLMC,on-line medical control
+3020,OM,osteomalacia
+3021,OMB,operational management board
+3022,OMD,organic mental disorders
+3023,OME,otitis media with effusion
+3024,OMFS,oral and maxillofacial surgery
+3025,OMH,office for migrant health
+3026,omn. hor.,every hour
+3027,omn. noct.,every night
+3028,OmPC,outer membrane protein complex
+3029,ONS,oncology nursing society
+3030,OoA,Office on Aging
+3031,OOB,out of bed
+3032,OOH,out of hospital
+3033,OOR,out of room
+3034,OOT,out of town
+3035,OP,outpatient
+3036,OPA,oropharyngeal airway
+3037,OPCAB,off-pump coronary artery bypass surgery
+3038,OPD,outpatient department
+3039,OPER,outpatient with extended recovery
+3040,OPG,oculoplethysmography
+3041,Oph,ophthalmology
+3042,OPHEP,Office of Public Health Emergency Preparedness (HHS)
+3043,OPHS,office of public health and science
+3044,Ophth,ophthalmology
+3045,OPMS,oropharyngeal motility study
+3046,opp,opposite
+3047,OPQRST,"onset, provocation, quality, radiation, severity, time"
+3048,OPROC,outpatient procedure
+3049,OPT,outpatient
+3050,opt,optimal
+3051,OPV,oral polio vaccine
+3052,OR,operating room
+3053,org,organization
+3054,ORIF,open reduction and internal fixation
+3055,ORL,otorhinolaryngology
+3056,ORM,operational risk management
+3057,ORR,objective response rate
+3058,ORS,oral rehydration solution
+3059,Orth,orthopedics
+3060,Ortho,orthopedics
+3061,OS,left eye (oculus sinister)
+3062,os,mouth
+3063,Os,Osmium (element)
+3064,OSA,obstructive sleep apnea
+3065,OSCE,objective structured clinical examination
+3066,OSD,over bed side drainage
+3067,OSHA,Occupational Safety and Health Administration
+3068,OSHC,Office of Science and Health Coordination (OC)
+3069,OSR,open septo-rhinoplasty
+3070,osteo,osteo myelitis
+3071,OT,occupational therapy
+3072,OTC,over the counter
+3073,OTFC,oral transmucosal fentanyl citrate
+3074,oto,otoscope
+3075,OTR,registered occupational therapist
+3076,OU,both eyes (oculi unitas)
+3077,OV,office visit
+3078,OXT,oxytocin
+3079,oz,ounce
+3080,P,Phosphorus (element)
+3081,p,melting point
+3082,P&A,percussion and auscultation
+3083,P&P,pins and plaster
+3084,P&R,pulse and respiration
+3085,P&T,peak and trough
+3086,P-A,posteroanterior
+3087,P-ANCA,perinuclear antineutrophil cytoplasmic antibody
+3088,p.c.,after meals (post cibos)
+3089,P/A,posterior/anterior
+3090,P/U,pick up
+3091,P2,pulmonic second sound
+3092,P4P,pay for performance
+3093,p:,plan
+3094,p=r,pupils equal and reactive
+3095,PA,posteroanterior
+3096,pa,placenta abruption
+3097,Pa,Pascal
+3098,PA-C,Certified Physician Assistant
+3099,PAB,professional advisory board
+3100,PABA,para-aminobenzoic acid (vitamin B10)
+3101,PAC,premature atrial contraction
+3102,Paco2,partial pressure of carbon dioxide in alveolar gas
+3103,PACU,post anesthesia care unit
+3104,PAD,pharmacologically active drug
+3105,PADP,pulmonary artery diastolic pressure
+3106,PADS,preventive aggression device system
+3107,PAF,paroxysmal atrial fibrillation
+3108,PAH,para-aminohippurate
+3109,PAL,peripheral arterial line
+3110,palp,palpable
+3111,PALS,pediatric advanced life support
+3112,PAN,panoramic
+3113,PAO2,alveolar oxygen partial pressure [case sensitive]
+3114,PaO2,arterial oxygen partial pressure [case sensitive]
+3115,PAOP,pulmonary artery occlusion pressure
+3116,PAP,pulmonary artery pressure
+3117,Pap,Papanicolaou smear
+3118,Pap test,Papanicolaou test (smear)
+3119,Pap.,papillary
+3120,PAR,paraffin
+3121,para,woman who has given birth
+3122,PARR,post anesthesia recovery (room)
+3123,part. vic.,in divided doses (partitis vicibus)
+3124,PAS,para amino-salicylic acid
+3125,PASA,para-aminosalicylic acid
+3126,PASG,pneumatic anti-shock garments
+3127,PASP,pulmonary artery systolic pressure
+3128,pat,paroxysmal atrial tachycardia
+3129,PAT,preadmission testing
+3130,path,pathologist
+3131,pathol,pathological
+3132,PAWP,pulmonary artery wedge pressure
+3133,PB,pudendal block or peripheral blood
+3134,pb,piggyback
+3135,Pb,Lead (element)
+3136,PBA,pseudobulbar affect
+3137,PBC,primary biliary cholangitis
+3138,PBF,partially breastfed
+3139,PBI,protein-bound iodine
+3140,PBL,problem-based learning
+3141,PBM,pharmacy benefits management
+3142,PBMC,peripheral blood mononuclear cell
+3143,PBPC,peripheral blood progenitor cell
+3144,PBSC,peripheral blood stem cell
+3145,PBSCT,peripheral blood stem cell transplantation
+3146,PC,pyruvate carboxylase
+3147,pc,after meals (post cibos)
+3148,PCA,patient care assistant
+3149,PCC,Poison Control Center
+3150,PCCR,post cardiac cath recovery
+3151,PCCU,post cardiac cath unit
+3152,PCD,pacing cardioverter/defibrillator
+3153,PCH,personal care home
+3154,PChE,pseudocholinesterase
+3155,pCi,picocurie
+3156,PCI,percutaneous coronary intervention
+3157,PCKD,polycystic kidney disease
+3158,PCL,polycaprolactone
+3159,PCM,protein-calorie malnutrition
+3160,PCN,penicillin
+3161,PCO,primary care organization
+3162,PCO2,carbon dioxide pressure
+3163,PCOS,polycystic ovary syndrome
+3164,PCP,primary care physician
+3165,PCR,protein catabolic rate
+3166,PCRA,patient controlled regional analgesia
+3167,PCS,procedure coding system
+3168,pct,percent
+3169,PCT,proximal convoluted tubule
+3170,PCTA,percutaneous transluminal angioplasty
+3171,PCU,Progressive Care Unit
+3172,PCV,pneumococcal vaccine
+3173,PCWP,pulmonary capillary wedge pressure
+3174,pd,pupillary distance
+3175,PD,pulmonary disease
+3176,Pd,Palladium (element)
+3177,PD&P,postural drainage and percussion
+3178,PDA,posterior descending artery
+3179,PDD,pervasive development disorder
+3180,PDD-NOS,pervasive developmental disorder not otherwise specified
+3181,PDE,permitted daily exposure
+3182,PDF,portable document format
+3183,PDGF,platelet-derived growth factor
+3184,PDIS,patient discharge instruction sheet
+3185,PDR,Physicians' Desk Reference
+3186,PDT,photodynamic therapy
+3187,PE,pulmonary embolism
+3188,PE tubes,polyethylene tubes
+3189,PEA,pulseless electrical activity
+3190,PED,pediatrician
+3191,Peds,pediatrics
+3192,PEEP,positive end expiratory pressure
+3193,PEFR,peak expiratory flow rate
+3194,PEG,percutaneous endoscopic gastrostomy
+3195,PEG INF,pegylated interferon
+3196,PEJ,percutaneous endoscopic jejunostomy
+3197,PEM,protein energy malnutrition
+3198,PEMF,pulsing electromagnetic field
+3199,pen,penicillin
+3200,PEP,post-exposure prophylaxis
+3201,per,period(ic)
+3202,perf,perforation
+3203,PERL,pupils equal and react to light
+3204,perm,permanent
+3205,peron,peroneal
+3206,PERRL,pupils equally round and react to light
+3207,PERRLA,pupils equally round and react to light and accommodation
+3208,PERRLA+C,"pupils equal, round, react to light, accommodation ok, and coordinated"
+3209,PET,polyethylene terephthalate
+3210,PetCO2,partial pressure of end-tidal carbon dioxide
+3211,PF,plantar flexion
+3212,PFC,persistent fetal circulation
+3213,PFD,personal flotation device (life jacket)
+3214,PFO,patent foramen ovale
+3215,PFP,pay for performance
+3216,PFT,pulmonary function test
+3217,PFTs,pulmonary function tests
+3218,PG,phosphatidylglycerol
+3219,pg,picogram (one trillionth of a gram)
+3220,PGA,pteroylglutamic acid
+3221,PGF,paternal grandfather
+3222,PGL,persistent generalized lymphadenopathy
+3223,PGM,paternal grandmother
+3224,PGR,psychogalvanic reaction
+3225,PGY,postgraduate year
+3226,PH,public health
+3227,pH,hydrogen ion concentration (measure of acidity/alkalinity)
+3228,PHA,public health advisory
+3229,Phar.,pharmacy
+3230,pharm,pharmacy
+3231,PharmD,Doctor of Pharmacy
+3232,PHB,personal health budget
+3233,PhD,Doctor of Philosophy
+3234,Phe,phenylalanine
+3235,PHI,protected health information
+3236,PHN,public health nurse
+3237,phni,pinhole no improvement
+3238,PHO,Physician Hospital Organization
+3239,phos,phosphate
+3240,PHP,partial hospitalization program
+3241,PHR,personal health record
+3242,PHS,Public Health Service
+3243,PHT,public health technician
+3244,PI,principal investigator
+3245,PIA,prolonged infantile apnea
+3246,PIC,peripheral intravenous catheter
+3247,PICC,peripherally inserted central catheter
+3248,PICU,pediatric intensive care unit
+3249,PID,pelvic inflammatory disease
+3250,PIE,"plan, intervention, evaluation"
+3251,PIF,prolactin release-inhibiting factor
+3252,PIG,pigtail catheter
+3253,pIgR,polymeric immunoglobulin receptor
+3254,PIH,pregnancy-induced hypertension
+3255,PII,personally identifiable information
+3256,pil,pill (pilula)
+3257,pil.,pill
+3258,PIN,prostatic intraepithelial neoplasia
+3259,PIP,peak inspiratory pressure
+3260,PIPJ,proximal interphalangeal joint
+3261,PIPOT,persons in positions of trust
+3262,PIT,Pitocin
+3263,PIV,peripheral intravenous
+3264,PJC,premature junctional contraction
+3265,PJP,Pneumocystis jiroveci pneumonia
+3266,PK test,Prausnitz-kustner test
+3267,PKC,protein kinase C
+3268,PKD,polycystic kidney disease
+3269,PKR,partial knee replacement
+3270,pks,packs
+3271,PKU,phenylketonuria
+3272,PL,palmaris longus
+3273,PLACE,patient-led assessments of the care environment
+3274,plats,platelet
+3275,PLCV,procedures of limited clinical value
+3276,PLIF,posterior lumbar interbody fusion
+3277,PLL,postero-lateral left
+3278,PLSS,portable life-support system
+3279,plt,platelet
+3280,Pm,Promethium (element)
+3281,pM,picomolar
+3282,PM,afternoon/evening (post meridian)
+3283,PM&R,physical medicine and rehabilitation
+3284,PMD,private medical doctor
+3285,PMDD,premenstrual dysphoric disorder
+3286,PMFSH,"past medical, family, social history"
+3287,PMH,past medical history
+3288,PMHx,past medical history
+3289,PMI,point of maximum impulse
+3290,PML,progressive multifocal leukoencephalopathy
+3291,PMN,polymorphonuclear neutrophil leukocytes
+3292,PMNL,polymorphonuclear leukocyte
+3293,pmol,picomole (one trillionth of a mole)
+3294,pmol/L,picomoles per liter
+3295,PMP,previous menstrual period
+3296,PMR,polymyalgia rheumatica
+3297,PMS,premenstrual syndrome
+3298,PMT,premenstrual tension
+3299,PMU,pain management unit
+3300,PN,psychoneurotic
+3301,PNA,pneumonia
+3302,PNB,premature nodal beats
+3303,PNC,prenatal care
+3304,PNC-E,post-necrotic cirrhosis-ethanol
+3305,PND,paroxysmal nocturnal dyspnea
+3306,PNF,proprioceptive neuromuscular facilitation
+3307,PNH,paroxysmal nocturnal hemoglobinuria
+3308,PNI,peripheral nerve injury
+3309,PNP,Pediatric Nurse Practitioner
+3310,PNS,peripheral nervous system
+3311,PNV,prenatal vitamins
+3312,PNX,pneumothorax
+3313,PO,phone order
+3314,po,by mouth (per os)
+3315,PO2,partial pressure of oxygen
+3316,POA,power of attorney
+3317,POAG,primary open-angle glaucoma
+3318,POC,plan of care
+3319,POCT,point of care testing
+3320,POD,postoperative day
+3321,POE,point of entry
+3322,POLST,physician orders for life-sustaining therapy
+3323,PONV,post-operative nausea and vomiting
+3324,POPs,progestin-only contraceptive pills
+3325,PORP,partial ossicular replacement prosthesis
+3326,POS,problem oriented system
+3327,poss,possible
+3328,post,after
+3329,post op,post operation
+3330,post.,posterior
+3331,POTx,proof of treatment
+3332,POU,"placenta, ovary, uterus"
+3333,PP,pulse pressure
+3334,PP1,"post partum day 1, etc."
+3335,PPA,phenyl pyruvic acid
+3336,ppb,parts per billion
+3337,PPB,positive pressure breathing
+3338,PPBG,postprandial blood glucose
+3339,PPBS,postprandial blood sugar
+3340,PPD,packs per day
+3341,PPE,personal protection equipment
+3342,PPF,plasma protein fraction
+3343,PPG,postprandial glucose
+3344,PPH,primary pulmonary hypertension
+3345,PPHN,persistent pulmonary hypertension of the newborn
+3346,PPI,proton pump inhibitor
+3347,PPIP,put prevention into practice
+3348,PPM,planned preventive maintenance
+3349,ppm,parts per million
+3350,PPMA,postpoliomyelitis muscular atrophy
+3351,PPN,peripheral parenteral nutrition
+3352,PPO,preferred provider organization
+3353,PPROM,preterm premature rupture of membranes
+3354,PPS,postpartum sterilization
+3355,PPT,plasma preparation tube
+3356,PPTL,post-partum tubal ligation
+3357,PPV,pneumococcal polysaccharide vaccine
+3358,PPW,pre-pregnancy weight
+3359,PQRST,provoke-quality-radiation-severity-time
+3360,PR,through the rectum
+3361,Pr,Praseodymium (element)
+3362,PR/R,per rectum/rectal
+3363,PR3,proteinase 3
+3364,PRA,panel-reactive antibody
+3365,PRB,performance review board
+3366,PRBC,packed red blood cell(s)
+3367,PRBCs,packed red blood cells
+3368,PRE,progressive resistive exercise
+3369,pre-op,before surgery (pre-operative)
+3370,preg,"pregnancy, pregnant"
+3371,PREM,patient reported experience measure
+3372,prep,preparation
+3373,PrEP,pre-exposure prophylaxis
+3374,prev,previous
+3375,PRF,prolactin-releasing factor
+3376,PRH,prolactin-releasing hormone
+3377,primip,primipara
+3378,PRIT,posterior resection of inferior turbinates
+3379,PRK,photorefractive keratectomy
+3380,PRL,prolactin
+3381,PRM,partial-rebreathing mask
+3382,prn,as required/needed (pro re nata)
+3383,PRO,peer review organization
+3384,pro time,prothrombin time
+3385,prob,"probable, probably"
+3386,PROM,passive range of motion
+3387,prox,proximal
+3388,PrP,prion protein
+3389,PRP,polysaccharide-ribitol-phosphate vaccine
+3390,PRQM,publicly reported quality measures
+3391,PRRT,pediatric rapid response team
+3392,PRSP,penicillin-resistant streptococcus pneumoniae
+3393,PRVC,pressure regulated volume control
+3394,PS,pulmonary stenosis
+3395,PSA,public service announcement
+3396,PsA,psoriatic arthritis
+3397,PSC,primary sclerosing cholangitis
+3398,PSCT,peripheral stem cell transplant
+3399,PSD,patient specific direction
+3400,PSDA,patient self-determination act
+3401,PSE,portal systemic encephalopathy
+3402,PSF,posterior spinal fusion
+3403,PSG,polysomnogram (sleep study)
+3404,PSH,past surgical history
+3405,psi,per square inch (pounds)
+3406,PSIS,posterior-superior iliac spine
+3407,PSL,peripheral saline lock
+3408,PSO,patient services office
+3409,PSRO,professional standards review organization
+3410,PSS,physiologic saline solution
+3411,PSV,peak systolic velocity
+3412,PSVT,paroxysmal supraventricular tachycardia
+3413,psy,"psychiatry, psychology"
+3414,psych,"psychiatry, psychology"
+3415,psychol,psychologist
+3416,PT,prothrombin time
+3417,Pt,Platinum (element)
+3418,pt,pint
+3419,PTA,prior to arrival
+3420,PTC,points to consider
+3421,PTCA,percutaneous transluminal coronary angioplasty
+3422,PTE,pulmonary thromboembolism
+3423,PTEM,pregnancy test education materials
+3424,PTFE,polytetrafluoroethylene
+3425,PTH,parathyroid hormone
+3426,PTK,phototherapeutic keratectomy
+3427,PTL,pre-term labor
+3428,PTR,platelet transfusion reaction
+3429,pts,"patient, patients"
+3430,PTSD,post-traumatic stress disorder
+3431,PTU,propylthiouracil
+3432,PTX,pneumothorax
+3433,Pu,Plutonium (element)
+3434,PU,"passed urine, peptic ulcer"
+3435,PUBS,percutaneous umbilical blood sampling
+3436,PUD,peptic ulcer disease
+3437,PuD,pulmonary disease
+3438,PUFA,polyunsaturated fatty acid
+3439,PUL,percutaneous ultrasonic lithotripsy
+3440,pul,pulmonary
+3441,pulm,pulmonary
+3442,pulv,powder (pulvis)
+3443,PUO,pyrexia of unknown origin
+3444,PUS,prostate ultrasound
+3445,PUVA,psoralen ultraviolet a
+3446,PV,polycythemia vera
+3447,PVC,premature ventricular contraction
+3448,PVD,peripheral vascular disease
+3449,PVE,prosthetic valve endocarditis
+3450,PVP,polyvinylpyrrolidone
+3451,PVR,peripheral vascular resistance
+3452,PVRI,Pulmonary Vascular Resistance Index
+3453,PVS,persistent vegetative state
+3454,PVT,paroxysmal ventricular tachycardia
+3455,PWA,person with AIDS
+3456,PWB,partial weight bearing
+3457,Px,prognosis
+3458,PZA,pyrazinamide
+3459,PZI,protamine zinc insulin
+3460,q,"every (quaque), each"
+3461,Q,quickening
+3462,q.1h,every 1 hour
+3463,q.2h,every 2 hours
+3464,q.3h,every 3 hours
+3465,q.4h,every 4 hours
+3466,q.5h,every 5 hours
+3467,q.6h,every 6 hours
+3468,q.8h,every 8 hours
+3469,q.d.,"every day (quaque die), once daily"
+3470,q.h.,every hour (quaque hora)
+3471,q.i.d.,four times a day (quater in die)
+3472,q.l.,as much as wanted (quantum libet)
+3473,q.o.d.,every other day (quaque altera die)
+3474,q.p.,as much as desired (quantum placeat)
+3475,q.s.,a sufficient quantity
+3476,q.v.,as much as you please (quantum vis)
+3477,QA,quality assurance
+3478,QALY,quality-adjusted life year
+3479,qam,every morning
+3480,Qb,blood flow
+3481,QC,quality control
+3482,QCT,quantitative computed tomography
+3483,qd,"every day, once daily"
+3484,qh,every hour
+3485,qhr,every hour (quaque hora)
+3486,qhs,nightly at bedtime (quaque hora somni)
+3487,QI,quality improvement
+3488,QIA,quality impact assessment
+3489,QID,four times a day
+3490,QIO,quality improvement organization
+3491,QIS,qualified in specialty
+3492,QL,quality of life
+3493,QM,quality management
+3494,QMP,qualified medical practitioner
+3495,qns,quantity not sufficient
+3496,QOD,every other day
+3497,QOF,quality and outcomes framework
+3498,qoh,every other hour
+3499,QoL,quality of life
+3500,qon,every other night
+3501,qp,as much as desired (quantum placeat)
+3502,qPCR,real-time (quantitative) polymerase chain reaction
+3503,QPNG,quinolone-resistant neisseria gonorrhea
+3504,QS,quantity sufficient
+3505,QS/QS,intrapulmonary shunting
+3506,qt,quart
+3507,quad,quadrant
+3508,quant,quantitative
+3509,qv,as much as desired (quantum vis)
+3510,QWL,quality of work life
+3511,r,rate
+3512,R,respiration
+3513,R&D,research and development
+3514,R&R,rate and rhythm
+3515,R&W,recreation and welfare
+3516,R-L,right to left
+3517,R-V,rectovaginal
+3518,R.B.C.,red blood cells
+3519,R/F,refill
+3520,R/L,right to left
+3521,R/O,rule out
+3522,R/S,reschedule
+3523,R/T,related to
+3524,R0,basic reproduction number (R naught)
+3525,RA,right atrium
+3526,Ra,radium
+3527,RAA,renin-angiotensin-aldosterone (system)
+3528,RAAS,renin angiotensin aldosterone system
+3529,RAC,right antecubital
+3530,RACE,"rescue, alarm, confine, extinguish (fire safety)"
+3531,RAD,radiation absorbed dose
+3532,rad,radical
+3533,RADAR,risk assessment of drugs analysis and response
+3534,RAE,right atrial enlargement
+3535,RAFa,right anterior forearm
+3536,RAHA,hemagglutination assay
+3537,RAI,radioactive iodine
+3538,RAID,"rapid assessment, interface and discharge"
+3539,RAIU,radioactive iodine uptake
+3540,RAM,rapid alternating movements
+3541,RANA,rheumatoid arthritis nuclear antigen
+3542,RAO,right anterior oblique
+3543,RAP,resident assessment protocol
+3544,RAPD,relative afferent pupillary defect
+3545,RAS,renal artery stenosis
+3546,RAST,radioallergosorbent test
+3547,RAT,rapid assessment and treatment
+3548,RATx,radiation therapy
+3549,rb,right bundle
+3550,Rb,Rubidium (element)
+3551,RBBB,right bundle branch block
+3552,RBC,red blood cell(s)
+3553,Rbcs,red blood cells
+3554,RBE,relative biological effectiveness
+3555,rBGH,recombinant bovine growth hormone
+3556,RBRVS,resource-based relative value scale
+3557,rBST,recombinant bovine somatotropin
+3558,RBV,read back and verify
+3559,RCA,right coronary artery
+3560,RCF,right cubital fossa
+3561,RCL,radial collateral ligament
+3562,RCM,right costal margin
+3563,RCP,respiratory care practitioner
+3564,RCR,replication competent retrovirus
+3565,RCS,Registered Cardiac Sonographer
+3566,RCT,randomized clinical/controlled trial
+3567,RD,retinal detachment
+3568,RDA,recommended daily/dietary allowance
+3569,RDH,Registered Dental Hygienist
+3570,RDI,reference daily intake
+3571,RDP,random donor platelets
+3572,RDS,respiratory distress syndrome
+3573,RDT,rising dose tolerance
+3574,RDU,rheumatic disease unit
+3575,RDW,red cell distribution width
+3576,Re,Rhenium (element)
+3577,RE,right eye
+3578,ReA,reactive arthritis
+3579,REBT,rational emotive behavioral therapy
+3580,rec,recommend or recommended
+3581,recc,recommend or recommended
+3582,REE,resting energy expenditure
+3583,ref,refuse(d)
+3584,refl,reflex
+3585,reg,regular
+3586,REHAB,rehabilitation
+3587,REI,reproductive endocrinology
+3588,rel,related
+3589,rem,removal
+3590,REM,rapid eye movement (sleep)
+3591,REMS,risk evaluation and mitigation strategy
+3592,rep,repeated (repetatur)
+3593,reps,repetitions
+3594,RES,reticuloendothelial system
+3595,resc,resuscitation
+3596,resid,residual
+3597,resp,response
+3598,RET,rational emotive therapy
+3599,retics,reticulocytes
+3600,retro,retrograde
+3601,rev,review
+3602,RF,rheumatoid factor
+3603,RFA,radiofrequency ablation
+3604,RFB,rifabutin
+3605,RFFF,radial forearm free flap
+3606,RFt,right foot
+3607,RFT,renal function test
+3608,RG,right gluteal/gluteus
+3609,RH,right hand
+3610,Rh,Rhodium (element)
+3611,RHD,rheumatic heart disease
+3612,RHF,right heart failure
+3613,RhoGAM,rh immune globulin
+3614,RIA,radioimmunoassay
+3615,RIBA,recombinant immunoblot assay
+3616,RICE,"rest, ice, compression, elevation"
+3617,RID,radial immunodiffusion
+3618,RIE,recorded in error
+3619,RIF,rifampin
+3620,RIFA,right inner forearm
+3621,RIG,rabies immune globulin
+3622,RIH,right inguinal herniorrhaphy
+3623,RIND,reversible ischemic neurologic deficit
+3624,RIU,radioactive iodine uptake (test)
+3625,RK,radial keratotomy
+3626,RL,Ringer's Lactate
+3627,RLE,right lower extremity
+3628,RLF,retrolental fibroplasia
+3629,RLFa,right lateral forearm
+3630,RLL,right lower (lung) lobe
+3631,RLQ,right lower quadrant (abdomen)
+3632,RLS,restless legs syndrome
+3633,RLW,right lateral wrist
+3634,RM,ruptured membranes
+3635,RMA,refuse(s) medical assistance
+3636,RML,right mediolateral
+3637,RMP,rifampin
+3638,RMSF,rocky mountain spotted fever
+3639,RMT,retromolar trigone
+3640,RN,Registered Nurse
+3641,Rn,Radon (element)
+3642,RN-C,Registered Nurse-Certified (by ANCC)
+3643,RNA,ribonucleic acid
+3644,RNFA,Registered Nurse First Assistant (surgery)
+3645,RNP,ribonucleoprotein
+3646,RNST,reactive non stress test
+3647,Ro,Ro antigen
+3648,RO,reverse osmosis
+3649,ROA,right occiput anterior
+3650,ROFA,right outer forearm
+3651,ROI,release of information
+3652,ROM,rupture of membranes
+3653,ROP,retinopathy of prematurity
+3654,ROPD,reversible obstructive pulmonary disease
+3655,ROS,review of systems
+3656,ROT,right occiput transverse
+3657,rot.,rotation
+3658,RP,radial pulse
+3659,RPE,ratings of perceived exertion
+3660,RPF,renal plasma flow
+3661,RPG,retrograde pyelogram
+3662,RPGN,rapidly progressive glomerulonephritis
+3663,RPh,registered pharmacist
+3664,RPM,revolutions per minute
+3665,RPO,right posterior oblique
+3666,RPP,rate pressure product
+3667,RPR,rapid plasma reagent (test)
+3668,RPT,rifapentine
+3669,RQ,respiratory quotient
+3670,RR,relative risk
+3671,RRA,registered record administrator
+3672,RRE,"round, reactive, equal"
+3673,RRL,registered records librarian
+3674,rRNA,ribosomal RNA
+3675,RRP,radical retropubic prostatectomy
+3676,RRR,regular rate and rhythm
+3677,RRT,renal replacement therapy
+3678,RS,remitting seronegative
+3679,RS3PE,symmetrical synovitis with pitting edema
+3680,RSB,regular sinus bradycardia
+3681,RSBI,Rapid Shallow Breathing Index
+3682,RSC,right subclavian
+3683,RSD,reflex sympathetic dystrophy (syndrome)
+3684,RSI,repetitive strain injury
+3685,RSO,right salpingo oophorectomy
+3686,RSR,regular sinus rate/rhythm
+3687,RST,regular sinus tachycardia
+3688,RSV,Rous sarcoma virus
+3689,RT,radiation therapy
+3690,rt,right
+3691,RT-PCR,reverse transcriptase polymerase chain reaction
+3692,RTA,renal tubular acidosis
+3693,RTC,road traffic collision
+3694,RTF,ready to feed
+3695,RTI,reverse transcriptase inhibitors
+3696,RTT,referral to treatment
+3697,RTV,ritonavir (antiviral drug)
+3698,RTW,return to work
+3699,Ru,Ruthenium (element)
+3700,RUA,right upper arm
+3701,RUD,right uterine displacement
+3702,RUE,right upper extremity
+3703,RUG,resource utilization group
+3704,RUL,right upper leg
+3705,RUO,research use only
+3706,rupt,rupture
+3707,RUQ,right upper quadrant (abdomen)
+3708,RUT,right upper thigh
+3709,RV,right ventricle/ventricular
+3710,RVA,"rabies vaccine, adsorbed"
+3711,RVC,responds to verbal commands
+3712,RVCT,report of verified case tuberculosis
+3713,RVEF,right ventricular ejection factor
+3714,RVF,right ventricular function
+3715,RVH,right ventricular hypertrophy
+3716,RVM,right ventricular mean
+3717,RVR,rapid ventricular response
+3718,RVS,Registered Vascular Specialist
+3719,RVT,right vastus lateralis
+3720,RVVC,recurrent vulvovaginal candidiasis
+3721,Rx,prescription
+3722,Rxn,reaction
+3723,RXT,exotropia (right)
+3724,S,son
+3725,s,without
+3726,S-A,sino-atrial
+3727,s.c.,subcutaneous(ly)
+3728,s.o.s.,if necessary
+3729,S/A,sugar and acetone
+3730,S/E,side effects
+3731,S/P,status post (following)
+3732,S/S,signs and symptoms
+3733,S/Sx,signs/symptoms
+3734,s/w,somewhat
+3735,S1,first heart sound
+3736,S2,second heart sound
+3737,S3,third heart sound
+3738,S4,fourth heart sound
+3739,SA,surface area
+3740,sa,according to art (secundum artem)
+3741,SA node,sinoatrial node
+3742,SAARD,slow-acting antirheumatic drug(s)
+3743,SAB,spontaneous abortion
+3744,SAC,short arm cast
+3745,SAD,seasonal affective disorder
+3746,SAE,serious adverse event
+3747,SAH,subarachnoid hemorrhage
+3748,SAID,steroidal anti-inflammatory drugs
+3749,SALT,speech and language therapy
+3750,SANE,sexual assault nurse examiner
+3751,SaO2,arterial blood-oxygen saturation
+3752,SARS,severe acute respiratory syndrome
+3753,SAS,statistical analysis system
+3754,SAT,serum agglutination test
+3755,sat,"saturate, saturation"
+3756,SAU,standard IgA beta-2 glycoprotein unit
+3757,SAVE,"screen, ask, validate, evaluate/educate"
+3758,SB,spina bifida
+3759,Sb,Antimony (stibium) (element)
+3760,SBAR,"situation, background, assessment, recommendation"
+3761,SBE,subacute bacterial endocarditis
+3762,SBFT,small bowel follow-through (x-ray)
+3763,SBGM,self blood glucose monitoring
+3764,SBO,small bowel obstruction
+3765,SBP,systolic blood pressure
+3766,sbp,spontaneous bacterial peritonitis
+3767,SBS,small bowel series
+3768,Sc,Scandium (element)
+3769,SC,subcutaneous
+3770,sc,subcutaneous(ly)
+3771,SCA,sudden cardiac arrest
+3772,SCAD,schizoaffective disorder
+3773,SCAT,sheep cell agglutination test
+3774,SCC,squamous cell carcinoma
+3775,ScD,Doctor of Science
+3776,SCD,sequential compression device
+3777,SCFE,slipped capital femoral epiphysis
+3778,SCI,spinal cord injury
+3779,sci,science
+3780,SCID,severe combined immunodeficiency
+3781,SCJ,sternoclavicular joint
+3782,SCLC,small cell lung cancer
+3783,SCLE,subacute cutaneous lupus erythematosus
+3784,ScM,Master of Science
+3785,SCM,sternocleidomastoid
+3786,SCN,suprachiasmatic nucleus
+3787,SCr,serum creatinine
+3788,SCT,stem cell transplantation
+3789,SD,standard deviation
+3790,SDAT,senile dementia of the Alzheimer type
+3791,SDH,subdural hematoma
+3792,SDP,single donor platelets
+3793,SDS,sodium dodecyl sulfate
+3794,SDSU,same-day surgery unit
+3795,SDT,speech discrimination threshold (audiometry)
+3796,SE,substantially equivalent
+3797,Se,Selenium (element)
+3798,sec,second (time or sequence)
+3799,Sed rate,sedimentation rate
+3800,seg,segmented (white cells)
+3801,SEM,scanning electron microscopy
+3802,SEMI,subendocardial myocardial infarction
+3803,semih.,half an hour
+3804,sens,sensitivity
+3805,seq,sequence
+3806,Ser,serine
+3807,SERM,selective estrogen receptor modulator
+3808,SF,sugar free
+3809,SFe,Serum Iron
+3810,SFI,Spondylitis Functional Index
+3811,SG,Swan-Ganz catheter
+3812,SGA,small for gestational age
+3813,SGOT,serum glutamic oxaloacetic transaminase
+3814,SGPT,serum glutamic-pyruvic transaminase
+3815,SGS,subglottic stenosis
+3816,SGU,standard IgG beta-2 glycoprotein unit
+3817,SH,serum hepatitis
+3818,sh,shoulder
+3819,SHE,"safety, health and environment"
+3820,shld,shoulder
+3821,SHP,hyperparathyroidism
+3822,SHU,special housing unit
+3823,SHx,social history
+3824,SI,serious incident
+3825,Si,Silicon (element)
+3826,SI units,International System of Units (Systeme International)
+3827,SIA,strip immunoblot assay
+3828,SIADH,syndrome of inappropriate antidiuretic hormone
+3829,SIB,self-injurious behavior
+3830,sib,sibling
+3831,SICU,surgical intensive care unit
+3832,SIDS,sudden infant death syndrome
+3833,SIE,stroke in evolution
+3834,sig,signal
+3835,Sig.,write on label (signa)
+3836,SIL,squamous intraepithelial lesion
+3837,sim,similar and simplated
+3838,SIMD,substance-induced mood disorder
+3839,simul,simultaneously
+3840,SIMV,synchronized intermittent mandatory ventilation
+3841,SIP,sterilization in place
+3842,SiPAP,synchronized inspiratory positive airway pressure
+3843,SIRES,"stabilize, identify toxin, reverse effect, eliminate toxin, support"
+3844,SIRI,serious incident requiring investigation
+3845,SIRS,systemic inflammatory response syndrome
+3846,SIS,saline infusion sonohysterosalpingography
+3847,SIVP,slow intravenous push
+3848,SIW,self-inflicted wound
+3849,SJS,Stevens-Johnson syndrome
+3850,SJT,situational judgement test
+3851,SK,streptokinase (thrombolytic)
+3852,skel,skeletal
+3853,SL,sensation level
+3854,sl,slight
+3855,SLB,short leg brace
+3856,SLD,specific learning disabilities
+3857,SLE,systemic lupus erythematosus
+3858,SLP,speech-language pathology
+3859,SLR,straight leg raise
+3860,SLT,speech and language therapy
+3861,SM,synovial membrane
+3862,sm,small
+3863,Sm,Samarium (element)
+3864,SMA,sequential multiple analyzer
+3865,SMAC,sequential multiple analyzer computer
+3866,SMBG,self-monitoring of blood glucose
+3867,SME,significant medical event
+3868,SMG,submandibular gland
+3869,SMR,submucous resection
+3870,SMU,standard IgM beta-2 glycoprotein unit
+3871,SMZ,sulfamethoxazole
+3872,Sn,Tin (element)
+3873,SNF,skilled nursing facility
+3874,SNHL,sensorineural hearing loss
+3875,SNOMED,systematized nomenclature of medicine
+3876,SNP,single nucleotide polymorphism
+3877,SNRI,serotonin and norepinephrine reuptake inhibitor
+3878,snRNP,small nuclear ribonucleoproteins
+3879,SNS,supplemental nursing system
+3880,SO,significant other
+3881,SO2,Sulfate
+3882,SOAP,"subjective, objective, assessment, plan"
+3883,SOAPIER,"subjective, objective, assessment, plan, intervention, evaluation, response"
+3884,SOB,short(ness) of breath
+3885,SOBE,shortness of breath on exertion
+3886,SOBOE,short of breath on exertion
+3887,SOC,standard of care
+3888,SOD,superoxide dismutase
+3889,SOI,severity of illness
+3890,sol,solution
+3891,SOL,space occupying lesion
+3892,soln,solution
+3893,SOM,serous otitis media
+3894,SOMI,sternal occipital mandibular immobilizer
+3895,sono,sonogram
+3896,SONP,soft organs not palpable
+3897,SOP,standard operating procedure
+3898,SOS,sinusoidal obstruction syndrome
+3899,SP,suprapubic (catheter)
+3900,sp,specific gravity
+3901,sp gr,specific gravity
+3902,sp. Gr.,specific gravity
+3903,SP/GP,suicide precautions/general precautions
+3904,SPA,sperm penetration assay
+3905,SpA,spondylarthropathy
+3906,SPAP,systolic pulmonary artery pressure
+3907,SPC,specialist palliative care
+3908,SPCA,Society for the Prevention of Cruelty to Animals
+3909,spec,specimen
+3910,SPECT,single-photon emission computed tomography
+3911,SPEP,serum protein electrophoresis
+3912,SPF,skin/sun protection factor
+3913,sph,spherical
+3914,SPLATT,split anterior tibial tendon transfer
+3915,SpO2,pulse oxygen saturation (pulse oximetry)
+3916,spon AB,spontaneous abortion
+3917,spont,spontaneous
+3918,spp,species
+3919,SPP,suprapubic prostatectomy
+3920,spt.,spirit
+3921,sq,squamous
+3922,SQ,subcutaneous(ly)
+3923,SQV,saquinavir (antiviral drug)
+3924,SR,slow/sustained-release [medication]
+3925,Sr,Strontium (element)
+3926,SRD,single rising dose
+3927,SRI,serotonin reuptake inhibitor
+3928,sRNA,soluble RNA
+3929,SRO,single room occupancy
+3930,SROM,spontaneous rupture of membranes
+3931,SRS,slow-reacting substance
+3932,SRSA,slow-reacting substance of anaphylaxis
+3933,SRT,speech reception threshold on audiometry
+3934,SS,Sjogren's syndrome
+3935,ss,one half (semis)
+3936,SS#,Social Security Number
+3937,SSA,Social Security Administration
+3938,SSc,systemic sclerosis
+3939,SSD,somatic symptom disorder
+3940,SSDI,Social Security disability insurance
+3941,ssDNA,single-stranded DNA
+3942,SSE,soap suds enema
+3943,SSEP,somatosensory evoked potentials
+3944,SSI,surgical site infection
+3945,SSKI,saturated solution of potassium iodide
+3946,SSN,Social Security Number
+3947,SSNHL,sudden sensorineural hearing loss
+3948,SSO,second surgical opinion
+3949,SSPE,subacute sclerosing panencephalitis
+3950,SSRI,selective serotonin reuptake inhibitor
+3951,SSS,sick sinus syndrome
+3952,SSSS,staphylococcal scalded skin syndrome
+3953,SSZ,sulfasalazine
+3954,st,straight
+3955,ST,sinus tachycardia
+3956,st.,let it/them stand
+3957,Staph,staphylococcus
+3958,START,simple triage and rapid treatment
+3959,STAT,"immediately, at once (statim)"
+3960,stb,stillborn
+3961,STD,sexually transmitted disease
+3962,std,standard
+3963,STEMI,ST-segment elevation myocardial infarction
+3964,ster,sterile
+3965,STG,short-term goals
+3966,STH,somatotrophic hormone (somatotropin)
+3967,STI,sexually transmitted infection
+3968,stim,stimulation
+3969,STJ,scapulothoracic joint
+3970,STM,short-term memory
+3971,Strep,streptococcus
+3972,struct,structure
+3973,STS,serologic test for syphilis
+3974,STSG,split thickness skin graft
+3975,STT,short term tests
+3976,STU,skin test unit
+3977,STV,short term variability
+3978,subcu,subcutaneous(ly)
+3979,subcut,subcutaneous(ly)
+3980,subling,sublingual (under tongue)
+3981,subQ,subcutaneous
+3982,subst,substance
+3983,SUD,single-use device
+3984,SUDs,single use devices
+3985,SUI,stress urinary incontinence
+3986,SUID,sudden unexpected infant death
+3987,sup,superior
+3988,supf.,superficial
+3989,supp,suppository
+3990,supr,"superior, supervision"
+3991,surg,surgical
+3992,susp,suspension
+3993,sut,suture
+3994,SV,stroke volume
+3995,Sv,sievert (unit)
+3996,SVC,superior vena cava
+3997,SVD,spontaneous vaginal delivery
+3998,SVE,sterile vaginal examination
+3999,SVR,sustained virologic response
+4000,SVRI,systemic vascular resistance index
+4001,SVT,supraventricular tachycardia
+4002,SW,social worker
+4003,SWD,short wave diathermy
+4004,SWI,surgical wound infection
+4005,Sx,symptoms
+4006,SX P,sexual precautions
+4007,sym,symmetrical
+4008,symp,symptoms
+4009,syn,synthetic
+4010,sync,synchronization
+4011,synth,synthetic
+4012,syph,syphilis
+4013,syr,syringe
+4014,Sz,seizure
+4015,Sz P,seizure precautions
+4016,T,temperature
+4017,T Bili,total bilirubin
+4018,T&A,tonsillectomy and adenoidectomy
+4019,T&C,type and cross
+4020,T&H,type and hold
+4021,T&S,type and screen
+4022,T&X,type and crossmatch
+4023,T-hold,transportation hold (law enforcement)
+4024,T.A.T.,toxin-antitoxin
+4025,t.d.s.,to be taken three times daily
+4026,T.I.,thoracic inlet
+4027,t.i.d.,three times a day (ter in die)
+4028,t.i.n.,three times a night
+4029,T/C,to consider
+4030,T3,triiodothyronine
+4031,T4,thyroxine
+4032,TA,transactional analysis
+4033,Ta,Tantalum (element)
+4034,tab,tablet
+4035,TAB,therapeutic abortion
+4036,TAC,"time, amount, character (emesis, bleeding, drainage, etc.)"
+4037,tachy,tachycardia
+4038,TAF,triage assessment form
+4039,TAH,transfusion-associated hepatitis
+4040,TAH-t,total artificial heart
+4041,TAMI,thrombolysis and angioplasty in myocardial infarction
+4042,TAR,total ankle replacement
+4043,TAROM,total active range of motion
+4044,TAT,turnaround time
+4045,TAVI,transcatheter aortic valve implantation
+4046,Tb,Terbium (element)
+4047,TB,tuberculin
+4048,TBA,to be admitted
+4049,TBB,transbronchial biopsy
+4050,TBBMD,total body bone mineral density
+4051,tbc,tubercle bacillus
+4052,TBD,to be determined
+4053,TBE,tick-borne encephalitis
+4054,TBG,thyroid-binding globulin
+4055,TBI,traumatic brain injury
+4056,TBP,thrombophlebitis
+4057,TBSA,total body surface area
+4058,Tbsp,tablespoon
+4059,TBT,tracheobronchial tree
+4060,TBW,total body water
+4061,TC,total cholesterol
+4062,Tc,Technetium (element)
+4063,TC&DB,"turn, cough, and deep breath"
+4064,TCA,tricyclic antidepressant
+4065,TCD,transcranial doppler
+4066,TCDB,"turn, cough, deep breathe"
+4067,TCE,trichloroethylene
+4068,TCH,"turn, cough, hyperinflate"
+4069,TCN,tetracycline
+4070,TCP,transcutaneous pacer
+4071,TcPCO2,transcutaneous carbon dioxide
+4072,TCPL,time cycled pressure limited
+4073,TCR,T cell (antigen) receptor
+4074,TCU,transitional care unit
+4075,TD,transdermal
+4076,Td,tetanus diphtheria
+4077,Tdap,tetanus diphtheria pertussis vaccine
+4078,TDF,testes determining factor
+4079,TDM,therapeutic drug monitoring
+4080,TdP,Torsade's de Pointes
+4081,TDWB,touch down weight bearing
+4082,Te,tetanus
+4083,TE,therapeutic equivalence
+4084,TEA,tetraethylammonium
+4085,tech,technician
+4086,TED,thrombo embolic deterrent
+4087,TEE,transesophageal echocardiography
+4088,TEF,tracheoesophageal fistula
+4089,TEM,transmission electron microscope
+4090,temp,temperature
+4091,TEN,toxic epidermal necrolysis
+4092,TENS,transcutaneous electrical nerve stimulation
+4093,TEP,tracheo-esophageal puncture
+4094,TF,tube feeding
+4095,TG,thyroglobulin
+4096,TGA,"transposition of the great arteries (formerly TGV, transposition of the great vessels)"
+4097,TGF,transforming growth factor
+4098,TGV,thoracic gas volume
+4099,Th,thorium
+4100,TH,thyroid hormone
+4101,THA,total hip arthroplasty
+4102,THC,tetrahydrocannabinol (in marijuana and related)
+4103,ther,"therapeutic, therapy"
+4104,Thr,threonine
+4105,THR,target heart rate
+4106,Ti,Titanium (element)
+4107,TIA,transient ischemic attack
+4108,Tib,tibial
+4109,TIBC,total iron-binding capacity
+4110,TICU,trauma intensive care unit
+4111,TID,three times a day (ter in die)
+4112,TIH,tumor-induced hypercalcemia
+4113,TIMI,thrombolysis in myocardial infarction
+4114,tinct,tincture
+4115,TIS,tumor in situ
+4116,TJC,The Joint Commission
+4117,TKA,total knee arthroplasty
+4118,TKE,terminal knee extension
+4119,TKO,to keep open (intravenous)
+4120,TKR,total knee replacement
+4121,Tl,Thallium (element)
+4122,TL,total laryngectomy
+4123,TLC,total life center
+4124,TLE,temporal lobe epilepsy
+4125,TLI,total lymphoid irradiation
+4126,TLS,tumor lysis syndrome
+4127,TLSO,thoracolumbar sacroorthosis
+4128,Tm,Thulium (element)
+4129,TM,tympanic membrane
+4130,TMD,temporomandibular disorder
+4131,TMJ,temporomandibular joint
+4132,TMP,total membrane pressure
+4133,TMP/SMX,trimethoprim-sulfamethoxazole
+4134,TMR,trans-myocardial revascularization
+4135,TMS,tympanic membranes
+4136,TMT,treadmill test
+4137,TN,trigeminal nerve
+4138,TNBP,transurethral needle biopsy of prostate
+4139,TNF,tumor necrosis factor
+4140,TNF-I,tumor necrosis factor inhibitor
+4141,TNM,tumor-node-metastasis
+4142,TNS,transcutaneous nerve stimulation
+4143,TNT,trinitrotoluene
+4144,TNTC,too numerous to count
+4145,TNTM,too numerous to mention
+4146,TO,telephone order
+4147,Toco,tocotransducer
+4148,TOD,target organ damage
+4149,TOE,transesophageal echocardiography
+4150,TOF,Tetralogy of Fallot
+4151,tol,tolerate(s)
+4152,TOLAC,trial of labor after cesarean section
+4153,TOP,termination of pregnancy
+4154,top,topically
+4155,TORB,telephone order read back
+4156,TORCH,"toxoplasmosis, other (hepatitis b, syphilis), rubella, cytomegalovirus, herpes simplex 2"
+4157,TORP,total ossicular replacement (prosthesis)
+4158,TOS,thoracic outlet syndrome
+4159,tox,"toxic, toxicity"
+4160,TP,total protein
+4161,tPA,tissue plasminogen activator
+4162,TPA,total parenteral alimentation
+4163,TPE,total plasma exchange
+4164,TPI,treponema pallidum immobilization (syphilis test)
+4165,TPO,thyroid peroxidase
+4166,TPPA,treponema pallidum particle agglutination (assay)
+4167,TPR,"temperature, pulse, respiration"
+4168,TPUR,transperineal urethral resection
+4169,TQM,total quality management
+4170,TR,tubal reversal
+4171,tr,trace
+4172,trach,tracheotomy
+4173,TRALI,transfusion-related acute lung injury
+4174,trans,transverse
+4175,TRAP,"tremor, rigidity, akinesia or postural instability bradykinesia, and postural instability"
+4176,TRBF,total renal blood flow
+4177,Treg,regulatory t cell
+4178,TRF,thyrotropin-releasing factor
+4179,TRH,(thyroid or thyrotropin)-releasing hormone
+4180,Trich,trichomonas
+4181,Trig,triglyceride
+4182,trit.,"triturate, grind"
+4183,TRMA,trauma
+4184,tRNA,transfer ribonucleic acid
+4185,TRO,temporary restraining order
+4186,Trp,tryptophan
+4187,TS,Tourette syndrome
+4188,TSD,time since death
+4189,TSE,transmissible spongiform encephalopathies
+4190,TSH,thyroid-stimulating hormone
+4191,TSLO,thoracic-lumbar-sacral orthosis
+4192,tsp,teaspoon
+4193,TSS,toxic shock syndrome
+4194,TST,tuberculin skin test
+4195,TT,tilt table
+4196,TTE,transthoracic echocardiography
+4197,tTG,antitransglutaminase
+4198,TTOM,to take out medicine
+4199,TTP,thrombotic thrombocytopenic purpura
+4200,TTS,temporary threshold shift
+4201,TU,titer unit
+4202,Tues,Tuesday
+4203,TUI,transurethral incision
+4204,TUIP,transurethral incision of the prostate
+4205,TUMA,transurethral microwave antenna
+4206,TUMT,transurethral microwave thermotherapy
+4207,TUNA,transurethral needle ablation
+4208,TUPP,tobacco use prevention program
+4209,TUR,transurethral resection
+4210,TURBT,transurethral resection of a bladder tumor
+4211,TURP,transurethral resection of the prostate
+4212,TV,tidal volume
+4213,TVH,total vaginal hysterectomy
+4214,TVR,tricuspid valve replacement
+4215,TVT,tension-free vaginal tape
+4216,TWE,tap water enema
+4217,Tx,treatment
+4218,Tyr,tyrosine
+4219,TZD,thiazolidinedione
+4220,U,unit(s)
+4221,U a,unit a
+4222,U-100,100 units per milliliter (insulin)
+4223,U/A,urinalysis
+4224,U/L,upper and lower
+4225,u/o,urine output
+4226,U/P,uretero pelvic
+4227,U/S,ultrasound
+4228,UA,unstable angina
+4229,Ua,uranium
+4230,UAC,umbilical artery catheter
+4231,UAO,upper airway obstruction
+4232,UAP,unlicensed assistive personnel
+4233,UB,upper body
+4234,UC,unchanged
+4235,UCB,umbilical cord blood
+4236,UCC,urothelial cell carcinoma
+4237,UCG,urinary chorionic gonadotropin
+4238,UCL,ulnar collateral ligament
+4239,UCTD,undifferentiated connective tissue disease
+4240,UD,unit dose
+4241,UDAB,urine drugs of abuse
+4242,UE,upper extremity
+4243,UEC,urgent and emergency care
+4244,UES,upper esophageal sphincter
+4245,UF,ultrafiltration
+4246,UFC,urinary free cortisol
+4247,UFH,unfractionated heparin
+4248,UFR,ultrafiltration rate
+4249,ug,microgram (0.000001 gram)
+4250,UG,urogenital
+4251,ugE,microgE
+4252,UGI,upper gastrointestinal
+4253,UHF,ultrahigh frequency
+4254,uL,microliter
+4255,UL,(tolerable) upper intake level
+4256,ul,ulnar
+4257,ULBW,ultra low birth weight
+4258,ULNS,upper limits of normal size
+4259,umb,"umbilicus, umbilical"
+4260,UMN,upper motor neuron
+4261,UN,united nations
+4262,ung,ointment (unguentum)
+4263,UNICEF,United Nations International Children's Emergency Fund
+4264,unilat.,unilateral
+4265,unk,unknown
+4266,UNOS,United Network For Organ Sharing
+4267,UO,urinary output
+4268,UOP,urinary output
+4269,UOQ,upper outer quadrant
+4270,uPA,urokinase plasminogen activator
+4271,UPC,units of packed cells
+4272,UPDRS,Unified Parkinson's Disease Rating Scale
+4273,UPJ,uretero pelvic junction
+4274,UPP,urethral pressure profile
+4275,UPT,urine pregnancy test
+4276,UQ,upper quadrant
+4277,UR,utilization review
+4278,ur,urine
+4279,URI,upper respiratory infection
+4280,Urol,urology
+4281,URQ,upper right quadrant
+4282,URT,upper respiratory tract
+4283,URTI,upper respiratory tract infection
+4284,US,ultrasonic
+4285,USP,United States Pharmacopeia
+4286,uSpA,undifferentiated spondylarthropathy
+4287,ut,uterus
+4288,ut. dict.,as directed (ut dictum)
+4289,UTD,up to date
+4290,UTox,urine toxicology screen (for drugs)
+4291,UTV,ultrasound transmission velocity
+4292,UUN,urine urea nitrogen
+4293,UV,umbilical vein
+4294,UVA,ultraviolet A (rays)
+4295,UVB,ultraviolet B (rays)
+4296,UVC,umbilical venous catheter
+4297,UVGI,ultraviolet germicidal irradiation
+4298,UVJ,uretero vesicle junction
+4299,V,Vanadium (element)
+4300,v,vein
+4301,V fib,ventricular fibrillation
+4302,V tach,ventricular tachycardia
+4303,V-Fib,ventricular fibrillation
+4304,V/Q,ventilation/perfusion
+4305,V/S,vital signs
+4306,v/v,volume per volume
+4307,VA,visual acuity
+4308,VA/Q,ventilation/perfusion
+4309,VAC,vacuum-assisted closure
+4310,VAD,vascular access device
+4311,VAERS,Vaccine Adverse Event Reporting System
+4312,vag,vagina
+4313,VAIN,vaginal intraepithelial neoplasia
+4314,val,valve
+4315,Val,valine
+4316,var,"variation, variety"
+4317,VAS,vibroacoustic stimulator
+4318,vasc,vascular
+4319,VB,vaginal bleeding
+4320,VBAC,vaginal birth after cesarean
+4321,VBG,vertical banded gastroplasty
+4322,VBW,vertical bitewings
+4323,VC,vital capacity
+4324,VCD,vacuum constriction device
+4325,VCF,vaginal contraceptive film
+4326,VCG,vectorcardiogram
+4327,VCUG,voiding cystourethrogram
+4328,VD,venereal disease
+4329,vd,void(ed)
+4330,VDRL,venereal disease research laboratory
+4331,VE,vaccine efficacy
+4332,VEB,ventricular ectopic beat
+4333,VEGF,vascular endothelial growth factor
+4334,vent,ventilate
+4335,VEP,visually evoked potential
+4336,VER,visual evoked response
+4337,VF,visual field
+4338,VFM,value for money
+4339,VG,ventral gluteal
+4340,VH,vitreous hemorrhage
+4341,VHDL,very high density lipoprotein
+4342,VHF,very high frequency
+4343,via,by way of
+4344,VIG,vaccinia immune globulin
+4345,VIN,vulvar intraepithelial neoplasia
+4346,VIP,voluntary interruption of pregnancy
+4347,vis,vision
+4348,VIS,vaccination instruction sheet
+4349,vit,vitamin
+4350,VKA,vitamin K antagonist
+4351,VL,vastis lateralis
+4352,VLBW,very low birth weight
+4353,VLCAD,very long-chain acyl-CoA dehydrogenase deficiency
+4354,VLDL,very low density lipoprotein
+4355,VLRA,verbal lead risk assessment
+4356,VMA,vanillyl-madelic acid
+4357,VMD,Doctor of Veterinary Medicine
+4358,VO,verbal order
+4359,VOD,veno-occlusive disease
+4360,vol,volume
+4361,vol %,volume percent
+4362,VOR,vestibular ocular reflex
+4363,VORB,verbal order read back
+4364,VP,variegate porphyria
+4365,VP Shunt,ventricular peritoneal shunt
+4366,VP-16,etoposide
+4367,VPC,ventricular premature contraction
+4368,VRA,visual reinforcement audiometry
+4369,VRE,vancomycin-resistant enterococci
+4370,VRSA,vancomycin-resistant Staphylococcus aureus
+4371,VS,vestibular schwannoma
+4372,vs.,versus
+4373,VSD,ventricular septal defect
+4374,Vsl,vessel
+4375,VSS,vital signs stable
+4376,VT,ventricular tachycardia
+4377,vtx,vertex
+4378,vv,veins
+4379,VV,varicose veins
+4380,VVC,vulvovaginal candidiasis
+4381,VVI,ventricular inhibited mode of pacing
+4382,vWD,von Willebrand disease
+4383,VZIG,varicella zoster immune globulin
+4384,VZV,varicella zoster virus
+4385,w,with
+4386,W,Tungsten (element)
+4387,w/,with
+4388,W/C,wheelchair
+4389,W/D,withdrawal
+4390,w/n,well nourished
+4391,w/o,without
+4392,w/u,work up
+4393,w/v.,weight in volume
+4394,WA,while awake
+4395,WAIS,Wechsler Adult Intelligence Scale
+4396,WAP,wandering atrial pacer
+4397,WB,weight bearing
+4398,WBAT,weight bearing as tolerated
+4399,WBC,white blood cell (count)
+4400,WCT,wide complex tachycardia
+4401,WD,well developed
+4402,WD/WN,"well developed, well nourished"
+4403,WDWN,"well-developed, well-nourished"
+4404,Wed,Wednesday
+4405,WF,white female
+4406,WFL,within functional limits
+4407,WG,Wegener's granulomatosis
+4408,WGL,within good limits
+4409,WH,well-hydrated
+4410,wh,white
+4411,WHO,World Health Organization
+4412,WIB,western immunoblot
+4413,WIC,"women, infants, children"
+4414,wk,week
+4415,wks,weeks
+4416,WKS,Wernicke Korsakoff syndrome
+4417,wm,white male
+4418,WN,well nourished
+4419,WNL,within normal limits
+4420,WNV,West Nile Virus
+4421,WNWD,"well-nourished, well-developed"
+4422,WO,wide open
+4423,WOB,work of breathing
+4424,WOC,"wound, ostomy, and continence nurse"
+4425,WPD,"warm, pink, dry (skin signs)"
+4426,WPW,Wolff-Parkinson-White syndrome
+4427,WS,Williams syndrome
+4428,WT,wild-type
+4429,wt.,weight
+4430,x,multiplied by
+4431,X&D,examination and diagnosis
+4432,x-ray,radiology
+4433,XC,exact carbon
+4434,XDR,extensively drug-resistant
+4435,Xe,Xenon (element)
+4436,xfer,transfer
+4437,XL,extra large
+4438,XR,extended-release
+4439,XT,exotropia
+4440,Y,Yttrium (element)
+4441,y,year
+4442,Y-BOCS,Yale-Brown Obsessive-Compulsive Scale
+4443,y.o.,year(s) old
+4444,Yb,Ytterbium (element)
+4445,yo,year(s) old
+4446,YOB,year of birth
+4447,yr,year
+4448,YTD,year to date
+4449,Z-DNA,left-handed DNA
+4450,ZDV,zidovudine
+4451,ZIFT,zygote intrafallopian transfer
+4452,ZMC,zygomaticomaxillary complex
+4453,Zn,Zinc (element)
+4454,Zr,Zirconium (element)
+4455,-, no 
+4456,+, yes 
