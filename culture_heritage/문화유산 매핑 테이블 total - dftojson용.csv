@@ -1,0 +1,46 @@
+컬럼 이름,property
+지정호수,schema:identifier
+문화재명(국문),rdfs:label
+문화재명(한문),rdfs:label
+문화재명(영어),rdfs:label
+다른명칭,schema:alternativeName
+문화재분류1,dcterms:subject
+문화재분류2,dcterms:subject
+문화재분류3,dcterms:subject
+문화재분류4,dcterms:subject
+수량,schema:materialExtent
+재질,schema:material
+재질상세,schema:material
+크키-가로,schema:width
+크기-세로,schema:depth
+크기-높이,schema:height
+크기-기타,schema:size
+지정(등록일),schema:datePublished
+소유자,dcterms:rightsholder
+관리자,schema:maintainer
+소재지상세 (도로명주소),dcterms:spatial
+소재지시도_시명,koad:city
+소재지도명,koad:province
+소재지시명,koad:city
+소재지군명,koad:county
+소재지구명,koad:district
+소재지읍명,koad:town
+소재지면명,koad:township
+소재지동명,koad:neighborhood
+소재지리명,koad:ruralVillage
+출토지상세,ch:p6
+출토지시도_시명,ch:p7
+출토지도명,ch:p8
+출토지시명,ch:p9
+출토지군명,ch:p10
+출토지구명,ch:p11
+출토지읍명,ch:p12
+출토지면명,ch:p13
+출토지동명,ch:p14
+출토지리명,ch:p15
+시대,dcterms:temporal
+시대구분,dcterms:temporal
+시대상세,dcterms:temporal
+연도,schema:dateCreated
+수리/붕괴 여부 ,schema:correction
+설명텍스트,schema:description
